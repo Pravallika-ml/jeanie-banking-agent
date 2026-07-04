@@ -1,0 +1,16 @@
+Transaction Dispute Policy
+
+Customers can dispute a transaction they don't recognize, believe is
+fraudulent, or that reflects goods/services not received. Disputes must be
+filed within 60 days of the transaction date to be eligible under
+Regulation E protections.
+
+Once a dispute is filed, the bank issues a provisional credit to the
+customer's account within 10 business days while the investigation is
+ongoing. The investigation itself takes up to 45 days for most transactions,
+or up to 90 days for disputes involving a new account (open less than 30
+days) or a transaction that occurred outside the United States.
+
+If the dispute is resolved in the customer's favor, the provisional credit
+becomes permanent. If resolved against the customer, the provisional credit
+is reversed and the customer is notified in writing with an explanation.

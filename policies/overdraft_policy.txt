@@ -1,0 +1,16 @@
+Overdraft Policy
+
+If a customer's checking account balance goes negative due to a transaction,
+a standard overdraft fee of $34 is charged per item, up to a maximum of 3
+fees per business day ($102 maximum daily total). Overdraft fees are not
+charged on transactions of $5 or less, or if the account is overdrawn by
+$5 or less at the end of the business day.
+
+Customers enrolled in Overdraft Protection can link a savings account or
+credit card to automatically cover a shortfall instead of paying a fee. It
+takes 1 business day to enroll in Overdraft Protection after a request is
+submitted.
+
+Accounts that remain overdrawn for more than 30 consecutive days may be
+closed and referred to collections. Customers can request a one-time
+courtesy fee refund once every 12 months by contacting support.
