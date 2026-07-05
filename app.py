@@ -93,3 +93,23 @@ def run_graph(input_data):
         st.session_state.pending_interrupt = None
         reply = result["messages"][-1].content
         st.session_state.history.append(("assistant", reply))
+
+
+if st.session_state.pending_interrupt:
+    st.warning(st.session_state.pending_interrupt["message"])
+    col1, col2 = st.columns(2)
+    if col1.button("✅ Approve"):
+        run_graph(Command(resume=True))
+        st.rerun()
+    if col2.button("❌ Deny"):
+        run_graph(Command(resume=False))
+        st.rerun()
+else:
+    user_input = st.chat_input("Ask Jeanie about a customer or bank policy...")
+    if quick_prompt:
+        user_input = quick_prompt
+    if user_input:
+        st.session_state.history.append(("user", user_input))
+        with st.spinner("Thinking..."):
+            run_graph({"messages": [("user", user_input)]})
+        st.rerun()
