@@ -13,7 +13,7 @@ st.set_page_config(
 
 st.markdown("""
 <style>
-#MainMenu, footer {visibility: hidden;}
+#MainMenu {visibility: hidden;}
 .stChatMessage {
     border-radius: 14px;
     padding: 4px 8px;
