@@ -1,0 +1,251 @@
+customer_id,first_name,last_name,email,city,state,account_open_date,checking_balance,savings_balance,debit_card_last4,debit_card_status,credit_card_last4,credit_card_status
+CUST0001,Pravallika,Dasari,pravallika.dasari1@example.com,Detroit,MI,2015-10-14,909.79,1548.1,3471,active,7468,active
+CUST0002,Rama Sai Aditya Hruday,Dasari,rama.dasari2@example.com,Tampa,FL,2025-11-15,1308.64,1830.71,2186,active,9779,active
+CUST0003,Satya Sri,Dasari,satya.dasari3@example.com,Columbus,OH,2022-04-25,1149.37,4941.27,1950,active,9313,inactive
+CUST0004,Jyothi,Dasari,jyothi.dasari4@example.com,Chicago,IL,2025-12-29,1428.76,9925.49,2408,active,8104,active
+CUST0005,Prasanthi,Dasari,prasanthi.dasari5@example.com,Louisville,KY,2025-08-18,1459.9,2262.95,4943,active,2486,active
+CUST0006,Srinivasarao,Dasari,srinivasarao.dasari6@example.com,Charlotte,NC,2021-08-27,112.61,523.93,1968,active,3028,active
+CUST0007,Kasyap,Dasari,kasyap.dasari7@example.com,Chicago,IL,2019-05-05,1888.55,10590.48,2013,active,7499,active
+CUST0008,Patricia,Anderson,patricia.anderson8@example.com,Cincinnati,OH,2020-03-03,1016.26,479.82,3181,active,5744,active
+CUST0009,Anthony,Martinez,anthony.martinez9@example.com,Charlotte,NC,2025-02-03,229.58,3999.01,6054,active,none,none
+CUST0010,Emily,Lopez,emily.lopez10@example.com,Columbus,OH,2019-11-22,866.42,2886.66,4078,active,none,none
+CUST0011,Lisa,Miller,lisa.miller11@example.com,Charlotte,NC,2018-06-06,1032.47,2980.68,2028,active,1976,active
+CUST0012,Michelle,Wilson,michelle.wilson12@example.com,Nashville,TN,2018-10-14,2812.08,2968.48,9711,active,8005,active
+CUST0013,Deborah,Lee,deborah.lee13@example.com,Nashville,TN,2019-11-06,3699.19,2491.12,8424,active,6924,active
+CUST0014,Karen,Thomas,karen.thomas14@example.com,Grand Rapids,MI,2024-05-25,471.86,9117.9,4999,active,2341,active
+CUST0015,Andrew,Martin,andrew.martin15@example.com,Charlotte,NC,2020-11-11,1113.59,2739.63,6627,active,8353,active
+CUST0016,Charles,Hill,charles.hill16@example.com,Columbus,OH,2025-02-02,237.19,2732.06,9387,active,7850,active
+CUST0017,William,Perez,william.perez17@example.com,Cleveland,OH,2015-12-13,819.19,4920.65,9011,active,7909,active
+CUST0018,Robert,Jones,robert.jones18@example.com,Grand Rapids,MI,2020-02-27,2066.49,13769.9,6140,active,6572,active
+CUST0019,Brian,Thompson,brian.thompson19@example.com,Atlanta,GA,2020-11-04,2326.47,1427.96,8474,active,2126,active
+CUST0020,Jennifer,Moore,jennifer.moore20@example.com,Nashville,TN,2018-08-06,1698.41,8716.04,2064,active,1994,active
+CUST0021,George,Martin,george.martin21@example.com,Tampa,FL,2019-12-07,1462.48,10308.04,8301,active,5662,active
+CUST0022,Amanda,Harris,amanda.harris22@example.com,Fort Lauderdale,FL,2018-12-01,915.67,929.69,6685,active,1369,active
+CUST0023,Sandra,Thompson,sandra.thompson23@example.com,Cleveland,OH,2019-07-25,1489.51,3286.3,2918,active,9088,active
+CUST0024,Patricia,Wilson,patricia.wilson24@example.com,Grand Rapids,MI,2023-03-11,937.77,5239.22,3119,active,5056,active
+CUST0025,Betty,Sanchez,betty.sanchez25@example.com,Fort Lauderdale,FL,2016-08-22,1435.62,3028.86,9134,active,2320,active
+CUST0026,William,Lewis,william.lewis26@example.com,Louisville,KY,2020-04-02,2205.37,1846.29,5552,active,3243,active
+CUST0027,Margaret,Scott,margaret.scott27@example.com,Indianapolis,IN,2018-06-29,989.91,1122.45,7804,active,6878,active
+CUST0028,Carol,Harris,carol.harris28@example.com,Chicago,IL,2024-09-20,220.89,1678.77,2359,active,3887,active
+CUST0029,Elizabeth,Anderson,elizabeth.anderson29@example.com,Tampa,FL,2023-10-19,1840.9,2551.72,1197,active,8945,active
+CUST0030,Donna,Lopez,donna.lopez30@example.com,Indianapolis,IN,2023-04-03,666.75,2737.24,1067,active,3386,active
+CUST0031,Anthony,Wright,anthony.wright31@example.com,Detroit,MI,2019-07-30,2093.43,602.75,6220,active,3056,active
+CUST0032,Brian,Allen,brian.allen32@example.com,Atlanta,GA,2019-01-26,2174.91,11152.65,1884,inactive,8481,active
+CUST0033,Deborah,Scott,deborah.scott33@example.com,Louisville,KY,2021-12-13,334.1,1703.82,7536,active,7457,active
+CUST0034,Michael,Walker,michael.walker34@example.com,Tampa,FL,2021-12-03,1947.27,2990.28,2019,active,4122,active
+CUST0035,John,Wilson,john.wilson35@example.com,Nashville,TN,2024-08-05,2448.06,827.76,2801,active,6571,active
+CUST0036,Joshua,Brown,joshua.brown36@example.com,Columbus,OH,2026-05-31,2051.69,3547.29,3478,active,9791,active
+CUST0037,Michael,White,michael.white37@example.com,Atlanta,GA,2026-02-16,214.7,4011.4,2152,active,4407,active
+CUST0038,Michelle,Harris,michelle.harris38@example.com,Cleveland,OH,2019-04-20,713.22,343.81,5132,active,6691,active
+CUST0039,Joshua,White,joshua.white39@example.com,Nashville,TN,2025-01-13,2014.72,6756.88,2889,active,8996,active
+CUST0040,Sandra,Walker,sandra.walker40@example.com,Nashville,TN,2022-12-01,356.03,807.5,2407,active,3361,active
+CUST0041,Michael,Perez,michael.perez41@example.com,St. Louis,MO,2023-06-12,926.64,2789.31,8841,active,3645,active
+CUST0042,Kimberly,Johnson,kimberly.johnson42@example.com,Chicago,IL,2015-10-01,1959.97,2491.94,9654,active,none,none
+CUST0043,Lisa,Martinez,lisa.martinez43@example.com,St. Louis,MO,2020-04-28,818.05,3332.15,1443,active,9652,active
+CUST0044,Karen,Garcia,karen.garcia44@example.com,St. Louis,MO,2016-12-07,1107.79,2658.27,5278,active,9493,active
+CUST0045,Lisa,Hernandez,lisa.hernandez45@example.com,Detroit,MI,2017-10-04,542.99,3287.74,4650,active,9725,active
+CUST0046,Paul,Allen,paul.allen46@example.com,Detroit,MI,2019-04-12,1189.01,2031.74,4654,active,4197,active
+CUST0047,Jessica,Sanchez,jessica.sanchez47@example.com,St. Louis,MO,2017-05-28,2736.61,2387.19,4714,active,4275,active
+CUST0048,Kimberly,Young,kimberly.young48@example.com,Detroit,MI,2018-03-20,1183.74,350.37,1474,active,1457,active
+CUST0049,Sarah,Walker,sarah.walker49@example.com,Indianapolis,IN,2024-03-29,2966.46,1899.41,6640,active,8327,active
+CUST0050,George,Thompson,george.thompson50@example.com,Detroit,MI,2025-07-06,1137.29,4541.67,4612,active,2673,active
+CUST0051,Joseph,Walker,joseph.walker51@example.com,Chicago,IL,2022-08-17,908.12,1233.97,4348,active,8907,active
+CUST0052,Michelle,Flores,michelle.flores52@example.com,Pittsburgh,PA,2026-05-24,241.07,4339.14,8855,active,6636,active
+CUST0053,Dorothy,Garcia,dorothy.garcia53@example.com,Pittsburgh,PA,2019-01-03,872.66,4122.45,2964,active,7365,active
+CUST0054,Amanda,Gonzalez,amanda.gonzalez54@example.com,Nashville,TN,2016-06-11,1844.96,1656.75,3924,active,8109,active
+CUST0055,Kenneth,Perez,kenneth.perez55@example.com,Columbus,OH,2017-06-07,834.92,2219.97,7485,active,8588,active
+CUST0056,Betty,Garcia,betty.garcia56@example.com,St. Louis,MO,2024-08-19,240.03,2668.36,3785,active,3081,active
+CUST0057,Mary,Martinez,mary.martinez57@example.com,Atlanta,GA,2016-04-07,397.84,6208.57,8624,active,3394,active
+CUST0058,Michelle,Hill,michelle.hill58@example.com,Nashville,TN,2019-01-16,944.54,6806.53,6741,active,3554,active
+CUST0059,Emily,Scott,emily.scott59@example.com,Cleveland,OH,2026-03-05,3661.01,1872.88,1233,active,2683,active
+CUST0060,Kimberly,Rodriguez,kimberly.rodriguez60@example.com,Louisville,KY,2016-08-21,2417.14,2847.54,4191,active,4457,active
+CUST0061,Mary,Taylor,mary.taylor61@example.com,Chicago,IL,2023-02-17,775.66,973.25,9211,active,none,none
+CUST0062,Jessica,Nguyen,jessica.nguyen62@example.com,Detroit,MI,2023-07-04,642.24,1850.77,9918,active,7865,active
+CUST0063,David,Brown,david.brown63@example.com,Fort Lauderdale,FL,2018-02-12,2017.07,3854.07,6796,active,none,none
+CUST0064,Sandra,Nguyen,sandra.nguyen64@example.com,Pittsburgh,PA,2016-04-10,616.08,1018.8,9466,active,7891,active
+CUST0065,Steven,Rodriguez,steven.rodriguez65@example.com,Charlotte,NC,2024-09-17,2197.29,2626.32,9577,active,9364,active
+CUST0066,Mary,Lewis,mary.lewis66@example.com,Grand Rapids,MI,2024-05-11,1640.02,710.65,1064,active,3454,active
+CUST0067,Barbara,Martinez,barbara.martinez67@example.com,Nashville,TN,2019-06-22,1214.06,2878.59,2971,active,2011,active
+CUST0068,Christopher,King,christopher.king68@example.com,Charlotte,NC,2020-03-08,499.67,1896.61,8905,active,2738,active
+CUST0069,Emily,Brown,emily.brown69@example.com,Chicago,IL,2024-04-08,5803.13,11913.17,5537,inactive,1691,active
+CUST0070,Deborah,Miller,deborah.miller70@example.com,Charlotte,NC,2021-05-05,1228.78,3423.73,1456,active,2038,active
+CUST0071,Mark,Lee,mark.lee71@example.com,Atlanta,GA,2020-09-29,2002.25,6714.81,9391,active,4267,active
+CUST0072,Brian,Moore,brian.moore72@example.com,Nashville,TN,2020-09-18,775.15,1551.89,9737,active,8832,active
+CUST0073,Steven,Thomas,steven.thomas73@example.com,St. Louis,MO,2020-07-18,1950.78,568.36,5253,active,4319,active
+CUST0074,Mark,Rodriguez,mark.rodriguez74@example.com,Louisville,KY,2025-01-18,1290.64,981.51,7428,active,8243,active
+CUST0075,Christopher,Jones,christopher.jones75@example.com,Tampa,FL,2023-09-19,2407.86,3097.86,8017,active,2198,active
+CUST0076,Susan,Martin,susan.martin76@example.com,Grand Rapids,MI,2025-01-15,19.92,636.7,3530,active,none,none
+CUST0077,Amanda,White,amanda.white77@example.com,Cleveland,OH,2023-07-30,1465.08,5813.65,3248,active,8663,active
+CUST0078,Joseph,Miller,joseph.miller78@example.com,Louisville,KY,2016-06-28,293.51,6574.85,8983,active,3667,active
+CUST0079,Kevin,Anderson,kevin.anderson79@example.com,Cleveland,OH,2018-06-29,3406.67,7042.22,8070,active,9447,active
+CUST0080,Betty,Perez,betty.perez80@example.com,Louisville,KY,2024-03-21,1444.07,550.38,6842,active,6218,active
+CUST0081,Jennifer,White,jennifer.white81@example.com,Cincinnati,OH,2022-08-16,2075.07,2232.16,8514,active,8216,active
+CUST0082,Amanda,Johnson,amanda.johnson82@example.com,Louisville,KY,2022-09-12,662.73,625.57,9477,active,5840,active
+CUST0083,Steven,Jones,steven.jones83@example.com,Columbus,OH,2016-02-11,1831.49,4077.61,4744,active,2716,active
+CUST0084,Jennifer,Taylor,jennifer.taylor84@example.com,Indianapolis,IN,2025-12-20,721.44,1728.69,3974,active,none,none
+CUST0085,Sarah,Rodriguez,sarah.rodriguez85@example.com,Pittsburgh,PA,2021-09-05,977.93,4681.21,5237,active,7651,active
+CUST0086,Elizabeth,Wright,elizabeth.wright86@example.com,Fort Lauderdale,FL,2020-08-22,677.38,2217.79,9103,active,6358,active
+CUST0087,Jennifer,Moore,jennifer.moore87@example.com,Cincinnati,OH,2017-06-12,2211.14,5802.05,4003,active,7968,active
+CUST0088,John,Moore,john.moore88@example.com,Cincinnati,OH,2019-04-20,1772.29,2947.42,2451,active,5268,active
+CUST0089,Jennifer,Hill,jennifer.hill89@example.com,Pittsburgh,PA,2023-12-03,729.44,2468.19,2091,active,5332,active
+CUST0090,Linda,Robinson,linda.robinson90@example.com,Cincinnati,OH,2022-08-11,1628.41,5569.34,7844,active,5388,active
+CUST0091,Michelle,Rodriguez,michelle.rodriguez91@example.com,Cincinnati,OH,2020-07-03,2629.16,3488.45,4906,active,2793,active
+CUST0092,William,Taylor,william.taylor92@example.com,Cincinnati,OH,2024-05-20,1090.28,994.03,4305,active,6111,active
+CUST0093,Kenneth,Martin,kenneth.martin93@example.com,Charlotte,NC,2017-11-24,2258.27,4483.5,4372,active,5750,inactive
+CUST0094,Mark,Allen,mark.allen94@example.com,Tampa,FL,2024-06-02,569.43,2208.99,5432,active,6685,active
+CUST0095,Mary,Taylor,mary.taylor95@example.com,Cincinnati,OH,2026-03-30,783.13,1849.71,1302,active,9284,active
+CUST0096,Emily,Gonzalez,emily.gonzalez96@example.com,Charlotte,NC,2021-02-02,2182.94,7310.09,5025,inactive,8324,active
+CUST0097,Michael,Ramirez,michael.ramirez97@example.com,Tampa,FL,2020-11-11,1156.67,9232.07,9944,active,7440,active
+CUST0098,Steven,Martin,steven.martin98@example.com,St. Louis,MO,2024-01-01,208.3,855.84,4761,active,6614,inactive
+CUST0099,Richard,Rodriguez,richard.rodriguez99@example.com,Louisville,KY,2022-07-08,1611.73,1409.73,1891,active,3126,active
+CUST0100,James,Jones,james.jones100@example.com,Tampa,FL,2018-02-08,236.79,1166.26,5187,active,8057,active
+CUST0101,William,Brown,william.brown101@example.com,Columbus,OH,2018-12-15,416.81,1616.92,7240,active,9289,active
+CUST0102,Kevin,Jackson,kevin.jackson102@example.com,Atlanta,GA,2023-09-12,692.03,8195.8,5801,active,1741,active
+CUST0103,Sandra,Lopez,sandra.lopez103@example.com,Cleveland,OH,2023-05-26,893.45,1308.69,8304,active,1059,active
+CUST0104,Thomas,White,thomas.white104@example.com,Detroit,MI,2020-04-12,434.02,8392.01,6300,active,5005,active
+CUST0105,Robert,Martin,robert.martin105@example.com,Chicago,IL,2022-06-01,1345.23,6459.72,3997,inactive,1017,active
+CUST0106,Nancy,Harris,nancy.harris106@example.com,Columbus,OH,2021-02-02,354.88,2777.0,5569,active,9237,active
+CUST0107,Dorothy,Gonzalez,dorothy.gonzalez107@example.com,Chicago,IL,2020-10-02,1469.07,3401.25,1081,active,2488,active
+CUST0108,Thomas,Garcia,thomas.garcia108@example.com,Cleveland,OH,2021-12-07,662.3,1065.44,1682,inactive,7454,active
+CUST0109,Mary,Martin,mary.martin109@example.com,Indianapolis,IN,2019-05-09,1606.28,2761.29,4814,active,2384,active
+CUST0110,Donna,King,donna.king110@example.com,Pittsburgh,PA,2017-12-30,367.49,6406.52,3543,active,7381,active
+CUST0111,Edward,Lee,edward.lee111@example.com,St. Louis,MO,2020-11-14,1978.77,1636.9,3448,active,5655,active
+CUST0112,George,Flores,george.flores112@example.com,Tampa,FL,2024-10-16,854.36,2919.99,1717,active,9404,active
+CUST0113,Kenneth,Ramirez,kenneth.ramirez113@example.com,St. Louis,MO,2018-07-21,885.75,7904.04,9282,active,3282,active
+CUST0114,Kimberly,Allen,kimberly.allen114@example.com,Atlanta,GA,2017-01-19,1616.8,3162.48,1263,active,4767,active
+CUST0115,Jennifer,Johnson,jennifer.johnson115@example.com,Cincinnati,OH,2024-12-02,2637.11,4983.39,6909,active,2718,active
+CUST0116,Matthew,Lewis,matthew.lewis116@example.com,Charlotte,NC,2025-11-05,1657.24,369.25,1308,active,9707,active
+CUST0117,Carol,Thomas,carol.thomas117@example.com,Nashville,TN,2023-06-16,236.33,2524.43,1054,active,8486,inactive
+CUST0118,John,Allen,john.allen118@example.com,Fort Lauderdale,FL,2020-05-30,3621.06,1309.43,2506,active,9617,active
+CUST0119,John,Walker,john.walker119@example.com,Indianapolis,IN,2017-05-04,1997.24,5219.39,2219,inactive,5350,inactive
+CUST0120,Jessica,Wilson,jessica.wilson120@example.com,Chicago,IL,2018-02-12,1478.9,5874.64,8542,active,9092,active
+CUST0121,Matthew,Jones,matthew.jones121@example.com,Nashville,TN,2016-03-15,379.25,1609.65,5707,active,1765,active
+CUST0122,Michelle,Gonzalez,michelle.gonzalez122@example.com,Columbus,OH,2019-09-09,1711.46,2633.99,3415,active,none,none
+CUST0123,Nancy,Taylor,nancy.taylor123@example.com,Tampa,FL,2018-01-29,1232.96,7583.84,5987,active,3186,active
+CUST0124,James,Walker,james.walker124@example.com,Cincinnati,OH,2020-12-19,1174.85,2703.17,5403,active,2630,active
+CUST0125,Brian,Wilson,brian.wilson125@example.com,Tampa,FL,2020-12-03,2561.57,2138.45,5765,inactive,9462,active
+CUST0126,Charles,Robinson,charles.robinson126@example.com,Nashville,TN,2021-03-08,1934.32,3169.66,2941,active,9996,active
+CUST0127,Richard,Martin,richard.martin127@example.com,Columbus,OH,2015-12-01,2994.02,5498.98,8748,active,1286,active
+CUST0128,Charles,Robinson,charles.robinson128@example.com,Columbus,OH,2017-03-21,808.09,9752.4,9300,active,8363,active
+CUST0129,Sarah,Harris,sarah.harris129@example.com,Chicago,IL,2016-02-19,1673.59,1710.13,4452,active,2222,active
+CUST0130,Donna,Garcia,donna.garcia130@example.com,Cleveland,OH,2018-01-12,1166.99,436.05,9586,inactive,5289,active
+CUST0131,Lisa,Rodriguez,lisa.rodriguez131@example.com,Atlanta,GA,2017-03-20,761.07,1196.38,9335,active,5580,active
+CUST0132,Linda,White,linda.white132@example.com,Chicago,IL,2020-10-30,1260.24,5209.92,8964,active,7456,active
+CUST0133,Mary,Hernandez,mary.hernandez133@example.com,Cincinnati,OH,2015-10-05,2283.03,999.73,9055,active,8385,active
+CUST0134,Betty,Martin,betty.martin134@example.com,St. Louis,MO,2024-11-01,1700.45,2076.07,7818,active,6635,active
+CUST0135,Matthew,Lee,matthew.lee135@example.com,Columbus,OH,2016-12-28,2520.62,4953.94,6428,active,1028,active
+CUST0136,Christopher,Perez,christopher.perez136@example.com,Pittsburgh,PA,2021-12-12,817.77,1424.51,2966,active,4207,active
+CUST0137,Amanda,Smith,amanda.smith137@example.com,Fort Lauderdale,FL,2018-02-12,903.82,827.19,5748,active,5148,inactive
+CUST0138,Lisa,Jones,lisa.jones138@example.com,Louisville,KY,2022-01-14,212.8,2078.7,2251,active,6909,active
+CUST0139,Margaret,Moore,margaret.moore139@example.com,Pittsburgh,PA,2025-11-15,952.94,8204.58,5597,active,2666,active
+CUST0140,Patricia,Jackson,patricia.jackson140@example.com,Tampa,FL,2015-12-03,2194.54,1619.05,3439,active,5084,active
+CUST0141,Sarah,Ramirez,sarah.ramirez141@example.com,Charlotte,NC,2022-11-16,771.62,2014.53,4110,active,7116,active
+CUST0142,Margaret,Johnson,margaret.johnson142@example.com,Grand Rapids,MI,2017-11-15,2366.99,1411.26,7554,active,9998,active
+CUST0143,Susan,Garcia,susan.garcia143@example.com,Cincinnati,OH,2015-12-12,981.55,822.24,7731,active,8386,active
+CUST0144,Michelle,Rodriguez,michelle.rodriguez144@example.com,Tampa,FL,2016-08-30,1072.46,1125.08,5689,inactive,8955,active
+CUST0145,Patricia,Scott,patricia.scott145@example.com,Cleveland,OH,2024-07-01,562.47,8987.28,8736,active,7797,active
+CUST0146,Nancy,Jackson,nancy.jackson146@example.com,Indianapolis,IN,2023-07-19,820.14,5206.33,5262,active,7655,active
+CUST0147,Dorothy,Thomas,dorothy.thomas147@example.com,Indianapolis,IN,2020-12-29,3527.92,3089.62,7461,active,none,none
+CUST0148,Linda,Hernandez,linda.hernandez148@example.com,Tampa,FL,2024-08-07,1497.68,2554.91,2231,active,4405,active
+CUST0149,Steven,Young,steven.young149@example.com,Charlotte,NC,2023-12-12,1543.82,3031.92,8421,active,6453,active
+CUST0150,Edward,Lewis,edward.lewis150@example.com,Louisville,KY,2024-11-06,1541.19,6376.68,9974,active,4152,active
+CUST0151,Jessica,Garcia,jessica.garcia151@example.com,Cleveland,OH,2022-07-31,2769.49,2204.37,2492,active,6231,active
+CUST0152,Jessica,White,jessica.white152@example.com,Indianapolis,IN,2017-05-03,870.41,4577.85,4311,active,1329,active
+CUST0153,Melissa,Clark,melissa.clark153@example.com,Louisville,KY,2021-10-09,1016.03,2054.85,9587,active,4440,active
+CUST0154,Matthew,Moore,matthew.moore154@example.com,Detroit,MI,2017-12-24,1400.93,2138.47,2016,active,none,none
+CUST0155,Ashley,Moore,ashley.moore155@example.com,Atlanta,GA,2015-07-25,933.94,1476.47,6900,active,3062,active
+CUST0156,Carol,Allen,carol.allen156@example.com,Charlotte,NC,2019-05-10,908.11,4216.47,4538,active,2517,active
+CUST0157,Sarah,Thomas,sarah.thomas157@example.com,Louisville,KY,2021-12-06,2249.45,2890.95,8304,active,8075,active
+CUST0158,Karen,Johnson,karen.johnson158@example.com,Cleveland,OH,2026-01-19,967.29,2403.27,7966,active,8754,inactive
+CUST0159,Donna,Young,donna.young159@example.com,Cincinnati,OH,2025-08-05,584.29,722.69,7414,active,9648,active
+CUST0160,Sandra,Lewis,sandra.lewis160@example.com,Chicago,IL,2017-08-19,755.38,2698.56,2786,active,4666,active
+CUST0161,Elizabeth,Martinez,elizabeth.martinez161@example.com,Charlotte,NC,2018-10-07,1911.75,2157.97,2784,active,8492,inactive
+CUST0162,Jennifer,Scott,jennifer.scott162@example.com,Grand Rapids,MI,2025-12-21,1313.42,9390.66,1022,active,3058,active
+CUST0163,Joseph,Torres,joseph.torres163@example.com,Fort Lauderdale,FL,2025-12-29,851.43,3967.06,5977,active,none,none
+CUST0164,David,Taylor,david.taylor164@example.com,Charlotte,NC,2019-04-12,194.82,4239.49,8166,active,2837,active
+CUST0165,Michael,Jones,michael.jones165@example.com,Indianapolis,IN,2020-07-13,985.85,4580.76,4140,active,7358,active
+CUST0166,Thomas,Anderson,thomas.anderson166@example.com,Grand Rapids,MI,2019-09-04,1977.51,3176.29,1018,active,1171,active
+CUST0167,Paul,Martin,paul.martin167@example.com,Nashville,TN,2023-04-16,785.09,1654.42,6183,active,4970,active
+CUST0168,Donald,King,donald.king168@example.com,Chicago,IL,2020-04-12,832.27,2080.91,5047,active,1479,active
+CUST0169,Anthony,Martin,anthony.martin169@example.com,Cincinnati,OH,2026-03-03,3137.78,4588.42,4180,active,9164,active
+CUST0170,Carol,Clark,carol.clark170@example.com,Columbus,OH,2023-07-13,1609.79,456.08,4732,active,7952,active
+CUST0171,Lisa,Anderson,lisa.anderson171@example.com,Nashville,TN,2026-01-12,1839.41,2862.73,6538,active,7890,active
+CUST0172,Lisa,Sanchez,lisa.sanchez172@example.com,Chicago,IL,2026-05-04,862.12,2342.73,5785,active,9271,active
+CUST0173,John,Wilson,john.wilson173@example.com,Nashville,TN,2024-03-02,852.77,4904.12,6107,active,4177,active
+CUST0174,Joseph,Robinson,joseph.robinson174@example.com,Chicago,IL,2023-06-11,1057.92,2798.81,5832,active,2785,active
+CUST0175,Michelle,Young,michelle.young175@example.com,Atlanta,GA,2024-04-24,2234.29,3615.86,4658,active,8947,active
+CUST0176,Anthony,Brown,anthony.brown176@example.com,Atlanta,GA,2024-10-09,1151.57,8184.2,7446,active,1890,active
+CUST0177,Susan,Johnson,susan.johnson177@example.com,Atlanta,GA,2024-10-27,1036.18,4483.74,7805,active,1849,active
+CUST0178,Amanda,Brown,amanda.brown178@example.com,Cleveland,OH,2022-01-01,1489.66,10348.06,8366,active,6147,active
+CUST0179,George,Davis,george.davis179@example.com,Columbus,OH,2015-12-20,2586.36,1903.15,3713,active,6394,active
+CUST0180,Richard,Lopez,richard.lopez180@example.com,Tampa,FL,2015-12-02,1338.51,7163.31,9598,active,8661,active
+CUST0181,Robert,Martin,robert.martin181@example.com,Tampa,FL,2018-04-12,2145.44,10802.64,7203,active,7125,active
+CUST0182,Nancy,Lewis,nancy.lewis182@example.com,Cleveland,OH,2025-03-11,855.3,9410.38,1047,active,2281,active
+CUST0183,Sarah,Garcia,sarah.garcia183@example.com,Detroit,MI,2021-09-13,1999.11,5771.46,3026,active,4398,active
+CUST0184,Matthew,Thompson,matthew.thompson184@example.com,Grand Rapids,MI,2017-03-14,2742.65,5263.17,6057,active,8085,inactive
+CUST0185,Jennifer,Brown,jennifer.brown185@example.com,St. Louis,MO,2021-02-07,2076.48,3072.64,4206,active,7106,active
+CUST0186,Paul,Lewis,paul.lewis186@example.com,Chicago,IL,2022-10-15,455.81,6989.31,6967,active,8774,active
+CUST0187,Mary,Clark,mary.clark187@example.com,Chicago,IL,2017-04-23,2609.16,5077.37,7631,active,1666,active
+CUST0188,Matthew,Williams,matthew.williams188@example.com,Nashville,TN,2025-09-17,5093.44,8325.07,2015,active,5210,active
+CUST0189,Richard,Jones,richard.jones189@example.com,Fort Lauderdale,FL,2019-08-16,291.55,1761.32,6555,inactive,6946,inactive
+CUST0190,Sarah,Perez,sarah.perez190@example.com,Atlanta,GA,2025-12-04,1343.99,4950.47,5295,active,6185,active
+CUST0191,Sarah,Martin,sarah.martin191@example.com,Cincinnati,OH,2018-04-28,892.98,7295.21,2070,active,1397,active
+CUST0192,Joseph,Miller,joseph.miller192@example.com,Nashville,TN,2018-05-23,1391.5,5672.27,8630,active,7332,active
+CUST0193,Thomas,Ramirez,thomas.ramirez193@example.com,Pittsburgh,PA,2020-11-17,3411.3,4502.4,3174,inactive,9135,active
+CUST0194,Barbara,Smith,barbara.smith194@example.com,Grand Rapids,MI,2015-12-22,547.52,3662.89,5969,active,3479,active
+CUST0195,Joshua,Thomas,joshua.thomas195@example.com,Detroit,MI,2016-10-03,441.78,8096.02,6235,active,8549,inactive
+CUST0196,Lisa,Hill,lisa.hill196@example.com,Columbus,OH,2020-09-03,2341.82,4468.13,4232,active,7417,active
+CUST0197,Edward,Hernandez,edward.hernandez197@example.com,Chicago,IL,2021-11-03,945.99,4660.01,2060,active,1554,active
+CUST0198,Donald,Scott,donald.scott198@example.com,Charlotte,NC,2022-10-05,2350.22,14507.74,3632,active,7988,active
+CUST0199,Michael,Jones,michael.jones199@example.com,Indianapolis,IN,2019-05-30,2016.54,2158.81,2377,active,4413,active
+CUST0200,Michael,Clark,michael.clark200@example.com,Nashville,TN,2018-06-15,403.46,660.02,8323,active,3837,active
+CUST0201,Joseph,Rodriguez,joseph.rodriguez201@example.com,Louisville,KY,2021-03-31,626.83,5145.8,4849,inactive,9823,active
+CUST0202,Deborah,Davis,deborah.davis202@example.com,Grand Rapids,MI,2016-12-25,571.01,5727.79,5815,active,5813,active
+CUST0203,Sarah,Torres,sarah.torres203@example.com,Indianapolis,IN,2022-03-26,495.49,2417.93,5162,active,5265,active
+CUST0204,Richard,Lewis,richard.lewis204@example.com,Chicago,IL,2024-05-01,956.78,4849.95,5019,active,4858,active
+CUST0205,Elizabeth,Jackson,elizabeth.jackson205@example.com,Fort Lauderdale,FL,2016-03-27,2944.14,2800.98,4084,active,6346,active
+CUST0206,John,Sanchez,john.sanchez206@example.com,Indianapolis,IN,2023-08-28,2770.03,3308.91,9312,active,9623,active
+CUST0207,Joseph,Miller,joseph.miller207@example.com,Tampa,FL,2021-03-18,293.94,1261.74,1606,active,2676,active
+CUST0208,James,Walker,james.walker208@example.com,Fort Lauderdale,FL,2017-03-24,804.94,3086.85,4786,active,8344,active
+CUST0209,Lisa,Williams,lisa.williams209@example.com,Fort Lauderdale,FL,2023-02-14,2439.49,3598.89,4815,active,2953,active
+CUST0210,Patricia,Gonzalez,patricia.gonzalez210@example.com,Atlanta,GA,2017-02-16,1023.67,2555.65,4181,active,2230,active
+CUST0211,Lisa,Allen,lisa.allen211@example.com,Pittsburgh,PA,2024-06-02,3403.36,2676.02,8358,active,5258,active
+CUST0212,Deborah,Smith,deborah.smith212@example.com,Columbus,OH,2019-04-07,2991.58,2507.04,6729,active,4565,active
+CUST0213,Robert,White,robert.white213@example.com,Detroit,MI,2024-10-29,1415.43,1101.83,1723,active,4341,active
+CUST0214,Thomas,Williams,thomas.williams214@example.com,Atlanta,GA,2018-03-15,2368.72,875.01,4333,active,1186,active
+CUST0215,Christopher,Clark,christopher.clark215@example.com,Tampa,FL,2022-03-31,654.78,2202.18,4033,active,6115,active
+CUST0216,John,Wilson,john.wilson216@example.com,Cincinnati,OH,2017-06-30,881.72,3940.2,9120,active,9979,inactive
+CUST0217,Donald,Jones,donald.jones217@example.com,Louisville,KY,2025-04-11,2749.37,1811.81,7476,active,3532,active
+CUST0218,Kenneth,Wright,kenneth.wright218@example.com,Columbus,OH,2019-02-03,1057.2,6514.15,3681,active,7517,active
+CUST0219,Brian,Moore,brian.moore219@example.com,Louisville,KY,2023-03-28,579.85,2819.58,6039,active,7845,active
+CUST0220,Patricia,Martin,patricia.martin220@example.com,St. Louis,MO,2020-01-23,1456.73,2678.97,6852,active,7784,active
+CUST0221,Anthony,Johnson,anthony.johnson221@example.com,Pittsburgh,PA,2017-10-25,1499.51,1720.6,6960,active,4230,active
+CUST0222,Betty,Sanchez,betty.sanchez222@example.com,Chicago,IL,2015-11-07,248.95,3662.89,1096,active,8113,active
+CUST0223,William,Ramirez,william.ramirez223@example.com,Columbus,OH,2017-03-19,1484.66,5284.25,2482,active,7655,active
+CUST0224,Andrew,White,andrew.white224@example.com,Nashville,TN,2017-09-29,345.29,5821.32,3663,active,3129,active
+CUST0225,James,Brown,james.brown225@example.com,Charlotte,NC,2024-10-25,338.79,3309.21,7499,active,2458,active
+CUST0226,Andrew,Flores,andrew.flores226@example.com,Fort Lauderdale,FL,2022-04-04,1769.33,3884.43,9265,active,3812,inactive
+CUST0227,Elizabeth,Thompson,elizabeth.thompson227@example.com,Indianapolis,IN,2024-08-07,290.05,1789.09,9538,active,3814,active
+CUST0228,John,Miller,john.miller228@example.com,Louisville,KY,2020-11-29,2028.99,1977.08,4233,active,5941,active
+CUST0229,David,Williams,david.williams229@example.com,Fort Lauderdale,FL,2020-12-31,1139.64,1580.43,6153,active,1874,active
+CUST0230,Joshua,Harris,joshua.harris230@example.com,Columbus,OH,2016-04-10,1332.16,4577.56,3625,active,4638,active
+CUST0231,Michelle,Sanchez,michelle.sanchez231@example.com,Atlanta,GA,2016-12-03,2601.2,3391.1,4213,active,8748,active
+CUST0232,Barbara,Torres,barbara.torres232@example.com,Chicago,IL,2025-12-12,2909.9,1277.32,7549,active,9485,active
+CUST0233,William,Harris,william.harris233@example.com,Detroit,MI,2025-01-12,1321.09,4403.83,3448,active,5047,active
+CUST0234,George,Gonzalez,george.gonzalez234@example.com,Cincinnati,OH,2016-07-02,1148.06,6036.57,1624,active,6311,active
+CUST0235,Linda,Harris,linda.harris235@example.com,Atlanta,GA,2021-04-21,914.89,4273.72,6017,active,7882,active
+CUST0236,Karen,Nguyen,karen.nguyen236@example.com,Chicago,IL,2021-08-22,478.61,7318.9,7376,active,none,none
+CUST0237,Kevin,White,kevin.white237@example.com,Nashville,TN,2020-10-07,1504.49,1698.01,8181,active,3928,active
+CUST0238,Mary,Smith,mary.smith238@example.com,Atlanta,GA,2020-12-04,3384.1,2183.42,8623,active,none,none
+CUST0239,Jessica,Lewis,jessica.lewis239@example.com,Grand Rapids,MI,2019-06-24,4019.62,6178.72,8508,active,3942,active
+CUST0240,Donald,Sanchez,donald.sanchez240@example.com,Columbus,OH,2025-08-30,292.35,5829.95,3104,active,6874,active
+CUST0241,Margaret,White,margaret.white241@example.com,Columbus,OH,2017-06-01,3813.06,5952.21,8241,active,9263,active
+CUST0242,Steven,Williams,steven.williams242@example.com,Cincinnati,OH,2019-04-12,337.67,5106.32,3134,inactive,2347,active
+CUST0243,George,Lee,george.lee243@example.com,Grand Rapids,MI,2018-05-03,265.03,6227.85,9380,active,2310,active
+CUST0244,Patricia,Allen,patricia.allen244@example.com,Fort Lauderdale,FL,2022-03-06,425.57,7177.41,3231,active,1423,inactive
+CUST0245,John,Flores,john.flores245@example.com,St. Louis,MO,2018-08-25,1621.35,800.63,2795,active,4173,active
+CUST0246,David,Young,david.young246@example.com,Indianapolis,IN,2015-09-08,2417.84,425.84,3705,active,4622,active
+CUST0247,John,Thompson,john.thompson247@example.com,Atlanta,GA,2017-12-07,1403.18,9838.14,5132,active,3601,active
+CUST0248,Christopher,Flores,christopher.flores248@example.com,Indianapolis,IN,2016-04-06,956.33,1036.99,8477,active,3352,active
+CUST0249,Thomas,Allen,thomas.allen249@example.com,Fort Lauderdale,FL,2021-01-11,1467.11,3427.74,4413,active,5306,inactive
+CUST0250,Michelle,Allen,michelle.allen250@example.com,Chicago,IL,2022-11-02,1005.19,5106.08,7099,active,1603,active

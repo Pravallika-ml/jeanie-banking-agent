@@ -1,0 +1,1593 @@
+transaction_id,customer_id,date,account_type,merchant,category,amount
+TXN00004,CUST0001,2026-05-17,checking,Duke Energy,utilities,-132.28
+TXN00005,CUST0001,2026-05-27,savings,Direct Deposit - Payroll,income,1704.06
+TXN00003,CUST0001,2026-06-07,checking,Shell Gas,gas,-15.95
+TXN00006,CUST0001,2026-06-07,savings,CVS Pharmacy,health,-185.53
+TXN00001,CUST0001,2026-06-13,checking,Amazon,shopping,-160.6
+TXN00002,CUST0001,2026-06-14,checking,CVS Pharmacy,health,-96.7
+TXN00012,CUST0002,2026-05-22,checking,Home Depot,home,-40.74
+TXN00010,CUST0002,2026-05-24,checking,Starbucks,dining,-241.63
+TXN00009,CUST0002,2026-05-28,checking,Uber,transport,-15.88
+TXN00007,CUST0002,2026-06-07,savings,Chipotle,dining,-146.03
+TXN00008,CUST0002,2026-06-19,checking,Walmart,shopping,-112.8
+TXN00013,CUST0002,2026-06-27,checking,CVS Pharmacy,health,-130.12
+TXN00011,CUST0002,2026-06-30,checking,Direct Deposit - Payroll,income,1825.3
+TXN00017,CUST0003,2026-05-22,checking,Starbucks,dining,-54.23
+TXN00016,CUST0003,2026-05-24,checking,Delta Airlines,travel,-59.17
+TXN00018,CUST0003,2026-06-15,checking,Duke Energy,utilities,-37.15
+TXN00015,CUST0003,2026-06-24,checking,Kroger,groceries,-91.32
+TXN00014,CUST0003,2026-06-29,checking,Target,shopping,-164.66
+TXN00019,CUST0004,2026-05-19,checking,Target,shopping,-161.0
+TXN00022,CUST0004,2026-05-28,checking,Uber,transport,-113.16
+TXN00021,CUST0004,2026-06-08,checking,Kroger,groceries,-142.33
+TXN00020,CUST0004,2026-06-30,checking,AT&T,utilities,-203.65
+TXN00023,CUST0004,2026-06-30,checking,Home Depot,home,-44.61
+TXN00024,CUST0005,2026-06-15,checking,Kroger,groceries,-103.87
+TXN00026,CUST0005,2026-06-21,checking,Uber,transport,-235.47
+TXN00025,CUST0005,2026-06-30,checking,Amazon,shopping,-195.6
+TXN00033,CUST0006,2026-05-17,checking,Netflix,entertainment,-34.32
+TXN00027,CUST0006,2026-05-20,checking,Netflix,entertainment,-162.1
+TXN00031,CUST0006,2026-05-20,savings,Home Depot,home,-23.8
+TXN00034,CUST0006,2026-05-21,checking,Duke Energy,utilities,-16.92
+TXN00035,CUST0006,2026-05-28,checking,Delta Airlines,travel,-172.69
+TXN00028,CUST0006,2026-05-29,checking,CVS Pharmacy,health,-154.84
+TXN00029,CUST0006,2026-05-31,checking,Starbucks,dining,-157.99
+TXN00030,CUST0006,2026-06-03,checking,Home Depot,home,-96.29
+TXN00032,CUST0006,2026-06-14,checking,Target,shopping,-249.17
+TXN00040,CUST0007,2026-05-21,checking,Walmart,shopping,-97.34
+TXN00041,CUST0007,2026-05-27,checking,Direct Deposit - Payroll,income,2530.47
+TXN00039,CUST0007,2026-06-06,savings,Home Depot,home,-51.22
+TXN00037,CUST0007,2026-06-14,savings,Shell Gas,gas,-7.75
+TXN00036,CUST0007,2026-06-17,checking,Starbucks,dining,-241.42
+TXN00038,CUST0007,2026-06-20,checking,Direct Deposit - Payroll,income,2687.76
+TXN00042,CUST0007,2026-06-30,checking,Target,shopping,-134.53
+TXN00043,CUST0008,2026-06-11,savings,Chipotle,dining,-61.52
+TXN00044,CUST0008,2026-06-26,checking,AT&T,utilities,-157.17
+TXN00045,CUST0008,2026-06-29,savings,Uber,transport,-39.57
+TXN00047,CUST0009,2026-05-17,checking,Home Depot,home,-14.25
+TXN00049,CUST0009,2026-06-18,savings,Shell Gas,gas,-191.4
+TXN00046,CUST0009,2026-06-21,checking,Shell Gas,gas,-43.81
+TXN00048,CUST0009,2026-06-28,checking,CVS Pharmacy,health,-175.46
+TXN00052,CUST0010,2026-05-21,savings,Kroger,groceries,-228.13
+TXN00050,CUST0010,2026-06-06,savings,Direct Deposit - Payroll,income,3028.82
+TXN00053,CUST0010,2026-06-12,checking,Shell Gas,gas,-159.36
+TXN00051,CUST0010,2026-06-28,checking,Shell Gas,gas,-53.98
+TXN00054,CUST0011,2026-05-20,checking,Shell Gas,gas,-198.82
+TXN00057,CUST0011,2026-05-23,checking,Home Depot,home,-227.94
+TXN00060,CUST0011,2026-05-25,checking,Walmart,shopping,-15.84
+TXN00061,CUST0011,2026-05-25,checking,Netflix,entertainment,-207.65
+TXN00062,CUST0011,2026-05-28,checking,Duke Energy,utilities,-111.27
+TXN00055,CUST0011,2026-06-14,checking,Netflix,entertainment,-86.78
+TXN00059,CUST0011,2026-06-24,checking,AT&T,utilities,-111.37
+TXN00056,CUST0011,2026-06-27,checking,Kroger,groceries,-232.8
+TXN00063,CUST0011,2026-06-27,checking,Netflix,entertainment,-188.63
+TXN00058,CUST0011,2026-06-29,checking,Delta Airlines,travel,-74.76
+TXN00065,CUST0012,2026-05-29,checking,Target,shopping,-239.47
+TXN00066,CUST0012,2026-06-17,checking,Starbucks,dining,-43.09
+TXN00064,CUST0012,2026-06-19,checking,Walmart,shopping,-124.91
+TXN00070,CUST0013,2026-05-20,savings,Direct Deposit - Payroll,income,1372.35
+TXN00072,CUST0013,2026-05-21,checking,Direct Deposit - Payroll,income,1542.21
+TXN00071,CUST0013,2026-06-03,checking,Kroger,groceries,-78.57
+TXN00069,CUST0013,2026-06-05,checking,CVS Pharmacy,health,-27.41
+TXN00068,CUST0013,2026-06-24,checking,Target,shopping,-175.5
+TXN00067,CUST0013,2026-06-25,checking,Target,shopping,-234.92
+TXN00073,CUST0014,2026-05-17,checking,Target,shopping,-150.15
+TXN00078,CUST0014,2026-05-17,checking,Amazon,shopping,-162.1
+TXN00074,CUST0014,2026-05-24,checking,AT&T,utilities,-12.34
+TXN00076,CUST0014,2026-06-01,checking,CVS Pharmacy,health,-83.54
+TXN00075,CUST0014,2026-06-02,checking,Walmart,shopping,-217.53
+TXN00077,CUST0014,2026-06-16,checking,Target,shopping,-67.27
+TXN00079,CUST0015,2026-05-16,checking,Delta Airlines,travel,-78.17
+TXN00083,CUST0015,2026-05-19,savings,Home Depot,home,-44.49
+TXN00081,CUST0015,2026-06-08,checking,Netflix,entertainment,-152.31
+TXN00082,CUST0015,2026-06-14,checking,Amazon,shopping,-239.13
+TXN00080,CUST0015,2026-06-21,checking,Duke Energy,utilities,-42.03
+TXN00084,CUST0015,2026-06-21,checking,Shell Gas,gas,-41.14
+TXN00087,CUST0016,2026-06-03,checking,Target,shopping,-102.16
+TXN00090,CUST0016,2026-06-03,checking,Kroger,groceries,-227.37
+TXN00091,CUST0016,2026-06-04,checking,Home Depot,home,-188.28
+TXN00089,CUST0016,2026-06-05,checking,Target,shopping,-67.27
+TXN00086,CUST0016,2026-06-06,savings,CVS Pharmacy,health,-73.08
+TXN00088,CUST0016,2026-06-12,checking,Home Depot,home,-245.3
+TXN00085,CUST0016,2026-06-24,checking,Home Depot,home,-71.36
+TXN00092,CUST0017,2026-05-20,checking,CVS Pharmacy,health,-220.5
+TXN00094,CUST0017,2026-06-14,checking,CVS Pharmacy,health,-110.4
+TXN00095,CUST0017,2026-06-15,checking,CVS Pharmacy,health,-224.11
+TXN00093,CUST0017,2026-06-19,checking,Home Depot,home,-60.24
+TXN00096,CUST0017,2026-06-20,checking,AT&T,utilities,-179.31
+TXN00097,CUST0017,2026-06-29,checking,Starbucks,dining,-122.75
+TXN00105,CUST0018,2026-05-18,checking,Chipotle,dining,-116.4
+TXN00102,CUST0018,2026-06-01,checking,Delta Airlines,travel,-212.4
+TXN00099,CUST0018,2026-06-06,checking,Direct Deposit - Payroll,income,2756.36
+TXN00104,CUST0018,2026-06-09,checking,CVS Pharmacy,health,-95.0
+TXN00101,CUST0018,2026-06-18,checking,Starbucks,dining,-43.57
+TXN00098,CUST0018,2026-06-19,checking,Delta Airlines,travel,-232.83
+TXN00106,CUST0018,2026-06-23,checking,Amazon,shopping,-191.62
+TXN00100,CUST0018,2026-06-28,checking,Duke Energy,utilities,-243.76
+TXN00103,CUST0018,2026-06-29,checking,Delta Airlines,travel,-121.03
+TXN00113,CUST0019,2026-05-20,checking,AT&T,utilities,-51.52
+TXN00110,CUST0019,2026-05-28,checking,Shell Gas,gas,-186.4
+TXN00111,CUST0019,2026-06-01,savings,Netflix,entertainment,-240.37
+TXN00108,CUST0019,2026-06-04,checking,Kroger,groceries,-106.97
+TXN00107,CUST0019,2026-06-05,checking,CVS Pharmacy,health,-71.49
+TXN00109,CUST0019,2026-06-14,checking,CVS Pharmacy,health,-90.62
+TXN00114,CUST0019,2026-06-21,checking,Delta Airlines,travel,-204.4
+TXN00112,CUST0019,2026-06-26,checking,Netflix,entertainment,-232.64
+TXN00121,CUST0020,2026-05-19,checking,Target,shopping,-160.78
+TXN00116,CUST0020,2026-05-20,savings,Target,shopping,-190.93
+TXN00120,CUST0020,2026-05-31,checking,Walmart,shopping,-78.25
+TXN00118,CUST0020,2026-06-03,checking,Starbucks,dining,-173.11
+TXN00115,CUST0020,2026-06-04,checking,CVS Pharmacy,health,-205.41
+TXN00122,CUST0020,2026-06-06,checking,Direct Deposit - Payroll,income,3057.45
+TXN00119,CUST0020,2026-06-13,checking,CVS Pharmacy,health,-4.66
+TXN00117,CUST0020,2026-06-16,checking,Amazon,shopping,-119.47
+TXN00125,CUST0021,2026-05-20,checking,CVS Pharmacy,health,-238.14
+TXN00123,CUST0021,2026-06-22,checking,Shell Gas,gas,-226.83
+TXN00124,CUST0021,2026-06-30,checking,Delta Airlines,travel,-159.76
+TXN00132,CUST0022,2026-05-19,checking,Delta Airlines,travel,-210.46
+TXN00130,CUST0022,2026-05-21,savings,CVS Pharmacy,health,-138.93
+TXN00126,CUST0022,2026-06-16,checking,Starbucks,dining,-146.31
+TXN00131,CUST0022,2026-06-17,checking,Duke Energy,utilities,-125.64
+TXN00128,CUST0022,2026-06-20,savings,Netflix,entertainment,-198.75
+TXN00127,CUST0022,2026-06-21,checking,Amazon,shopping,-89.23
+TXN00129,CUST0022,2026-06-25,savings,Uber,transport,-153.66
+TXN00135,CUST0023,2026-05-30,checking,Direct Deposit - Payroll,income,2182.74
+TXN00134,CUST0023,2026-06-01,checking,Target,shopping,-18.38
+TXN00133,CUST0023,2026-06-22,checking,Delta Airlines,travel,-107.08
+TXN00136,CUST0023,2026-06-30,checking,Amazon,shopping,-216.27
+TXN00137,CUST0024,2026-05-30,checking,Duke Energy,utilities,-175.19
+TXN00138,CUST0024,2026-06-03,checking,CVS Pharmacy,health,-118.58
+TXN00141,CUST0024,2026-06-09,checking,Uber,transport,-185.19
+TXN00139,CUST0024,2026-06-19,savings,Chipotle,dining,-170.28
+TXN00140,CUST0024,2026-06-29,checking,CVS Pharmacy,health,-163.04
+TXN00144,CUST0025,2026-06-09,checking,Walmart,shopping,-166.12
+TXN00145,CUST0025,2026-06-17,checking,Target,shopping,-140.31
+TXN00142,CUST0025,2026-06-21,checking,Delta Airlines,travel,-190.26
+TXN00143,CUST0025,2026-06-22,checking,Kroger,groceries,-106.24
+TXN00152,CUST0026,2026-05-27,checking,Chipotle,dining,-221.86
+TXN00148,CUST0026,2026-05-29,checking,Chipotle,dining,-246.13
+TXN00147,CUST0026,2026-05-30,checking,Duke Energy,utilities,-91.37
+TXN00150,CUST0026,2026-06-22,checking,Walmart,shopping,-179.44
+TXN00149,CUST0026,2026-06-23,savings,Walmart,shopping,-165.02
+TXN00146,CUST0026,2026-06-27,checking,Chipotle,dining,-65.89
+TXN00151,CUST0026,2026-06-28,savings,Uber,transport,-25.54
+TXN00154,CUST0027,2026-05-19,savings,Duke Energy,utilities,-153.74
+TXN00155,CUST0027,2026-05-22,checking,Kroger,groceries,-227.82
+TXN00153,CUST0027,2026-06-18,checking,Chipotle,dining,-5.53
+TXN00156,CUST0028,2026-05-17,checking,Uber,transport,-169.73
+TXN00163,CUST0028,2026-05-25,checking,Chipotle,dining,-9.02
+TXN00164,CUST0028,2026-05-30,checking,CVS Pharmacy,health,-228.8
+TXN00159,CUST0028,2026-06-04,checking,Shell Gas,gas,-217.82
+TXN00161,CUST0028,2026-06-11,savings,Walmart,shopping,-38.12
+TXN00158,CUST0028,2026-06-19,checking,CVS Pharmacy,health,-157.82
+TXN00162,CUST0028,2026-06-19,checking,Delta Airlines,travel,-216.16
+TXN00157,CUST0028,2026-06-28,savings,Uber,transport,-24.42
+TXN00160,CUST0028,2026-06-30,checking,AT&T,utilities,-232.91
+TXN00167,CUST0029,2026-05-19,checking,CVS Pharmacy,health,-149.62
+TXN00165,CUST0029,2026-05-25,checking,Duke Energy,utilities,-203.34
+TXN00166,CUST0029,2026-06-30,savings,Home Depot,home,-113.83
+TXN00170,CUST0030,2026-05-19,checking,Kroger,groceries,-6.29
+TXN00169,CUST0030,2026-05-21,checking,CVS Pharmacy,health,-224.36
+TXN00172,CUST0030,2026-06-13,checking,Duke Energy,utilities,-120.19
+TXN00171,CUST0030,2026-06-17,savings,Shell Gas,gas,-215.18
+TXN00168,CUST0030,2026-06-25,checking,Target,shopping,-139.01
+TXN00178,CUST0031,2026-05-22,checking,Kroger,groceries,-164.07
+TXN00175,CUST0031,2026-05-26,checking,Home Depot,home,-76.11
+TXN00176,CUST0031,2026-06-14,checking,Home Depot,home,-168.71
+TXN00174,CUST0031,2026-06-21,checking,Walmart,shopping,-179.53
+TXN00173,CUST0031,2026-06-27,checking,Target,shopping,-50.1
+TXN00177,CUST0031,2026-06-30,savings,Direct Deposit - Payroll,income,2634.42
+TXN00181,CUST0032,2026-05-31,savings,Walmart,shopping,-183.03
+TXN00180,CUST0032,2026-06-10,checking,Duke Energy,utilities,-153.8
+TXN00179,CUST0032,2026-06-20,checking,Chipotle,dining,-183.44
+TXN00182,CUST0032,2026-06-23,checking,CVS Pharmacy,health,-241.72
+TXN00186,CUST0033,2026-05-23,checking,Kroger,groceries,-164.13
+TXN00188,CUST0033,2026-05-24,checking,Duke Energy,utilities,-208.83
+TXN00183,CUST0033,2026-05-31,checking,CVS Pharmacy,health,-201.25
+TXN00189,CUST0033,2026-06-06,savings,Chipotle,dining,-64.54
+TXN00184,CUST0033,2026-06-13,checking,Chipotle,dining,-115.38
+TXN00185,CUST0033,2026-06-13,checking,AT&T,utilities,-86.14
+TXN00190,CUST0033,2026-06-16,checking,CVS Pharmacy,health,-193.78
+TXN00187,CUST0033,2026-06-30,savings,Walmart,shopping,-182.52
+TXN00193,CUST0034,2026-05-25,checking,Starbucks,dining,-203.69
+TXN00194,CUST0034,2026-05-26,checking,Amazon,shopping,-213.39
+TXN00195,CUST0034,2026-05-27,checking,CVS Pharmacy,health,-126.99
+TXN00200,CUST0034,2026-05-27,checking,AT&T,utilities,-136.98
+TXN00198,CUST0034,2026-06-01,checking,Starbucks,dining,-170.7
+TXN00196,CUST0034,2026-06-06,checking,Shell Gas,gas,-123.25
+TXN00191,CUST0034,2026-06-13,checking,Starbucks,dining,-83.1
+TXN00197,CUST0034,2026-06-16,checking,Netflix,entertainment,-181.66
+TXN00192,CUST0034,2026-06-28,checking,Chipotle,dining,-230.47
+TXN00199,CUST0034,2026-06-30,checking,Home Depot,home,-66.66
+TXN00201,CUST0035,2026-05-28,checking,AT&T,utilities,-101.95
+TXN00205,CUST0035,2026-05-28,checking,Walmart,shopping,-92.29
+TXN00206,CUST0035,2026-05-30,checking,Duke Energy,utilities,-14.97
+TXN00207,CUST0035,2026-06-01,savings,Walmart,shopping,-95.43
+TXN00202,CUST0035,2026-06-10,checking,Direct Deposit - Payroll,income,2866.66
+TXN00204,CUST0035,2026-06-12,checking,Netflix,entertainment,-202.24
+TXN00203,CUST0035,2026-06-17,checking,Target,shopping,-53.66
+TXN00208,CUST0035,2026-06-29,checking,AT&T,utilities,-81.68
+TXN00215,CUST0036,2026-05-16,checking,Kroger,groceries,-141.12
+TXN00212,CUST0036,2026-05-24,checking,Chipotle,dining,-113.93
+TXN00210,CUST0036,2026-05-30,savings,Netflix,entertainment,-217.06
+TXN00211,CUST0036,2026-06-13,checking,Uber,transport,-68.35
+TXN00214,CUST0036,2026-06-25,checking,Walmart,shopping,-48.46
+TXN00216,CUST0036,2026-06-26,checking,Target,shopping,-212.02
+TXN00209,CUST0036,2026-06-28,checking,Starbucks,dining,-9.06
+TXN00213,CUST0036,2026-06-28,checking,Duke Energy,utilities,-36.2
+TXN00225,CUST0037,2026-05-18,checking,Walmart,shopping,-235.09
+TXN00218,CUST0037,2026-05-19,checking,Walmart,shopping,-161.6
+TXN00223,CUST0037,2026-05-20,checking,Starbucks,dining,-178.56
+TXN00221,CUST0037,2026-06-08,checking,Amazon,shopping,-66.94
+TXN00217,CUST0037,2026-06-14,checking,Direct Deposit - Payroll,income,3118.59
+TXN00220,CUST0037,2026-06-16,savings,Walmart,shopping,-247.96
+TXN00219,CUST0037,2026-06-20,checking,Delta Airlines,travel,-114.29
+TXN00224,CUST0037,2026-06-21,savings,AT&T,utilities,-17.72
+TXN00222,CUST0037,2026-06-27,savings,Kroger,groceries,-226.52
+TXN00231,CUST0038,2026-05-22,savings,Amazon,shopping,-58.26
+TXN00232,CUST0038,2026-06-02,checking,Duke Energy,utilities,-188.28
+TXN00228,CUST0038,2026-06-15,checking,Walmart,shopping,-45.47
+TXN00227,CUST0038,2026-06-23,checking,Target,shopping,-67.22
+TXN00226,CUST0038,2026-06-24,checking,Uber,transport,-190.44
+TXN00230,CUST0038,2026-06-28,checking,Target,shopping,-52.0
+TXN00229,CUST0038,2026-06-30,checking,AT&T,utilities,-170.7
+TXN00233,CUST0039,2026-05-21,savings,Direct Deposit - Payroll,income,2884.5
+TXN00236,CUST0039,2026-06-02,checking,Netflix,entertainment,-48.34
+TXN00235,CUST0039,2026-06-09,checking,Target,shopping,-94.04
+TXN00234,CUST0039,2026-06-16,checking,Shell Gas,gas,-87.59
+TXN00241,CUST0040,2026-05-19,checking,Delta Airlines,travel,-224.18
+TXN00237,CUST0040,2026-06-04,savings,Target,shopping,-69.53
+TXN00238,CUST0040,2026-06-12,checking,Netflix,entertainment,-70.69
+TXN00240,CUST0040,2026-06-21,checking,Walmart,shopping,-122.68
+TXN00239,CUST0040,2026-06-24,checking,Walmart,shopping,-68.13
+TXN00247,CUST0041,2026-05-28,checking,Walmart,shopping,-112.98
+TXN00246,CUST0041,2026-05-29,savings,Amazon,shopping,-7.94
+TXN00244,CUST0041,2026-06-12,savings,Netflix,entertainment,-28.0
+TXN00245,CUST0041,2026-06-12,savings,Chipotle,dining,-18.14
+TXN00242,CUST0041,2026-06-14,checking,Delta Airlines,travel,-74.41
+TXN00243,CUST0041,2026-06-14,checking,AT&T,utilities,-93.61
+TXN00254,CUST0042,2026-05-17,checking,Uber,transport,-6.47
+TXN00251,CUST0042,2026-05-23,checking,Uber,transport,-25.51
+TXN00248,CUST0042,2026-06-04,checking,Amazon,shopping,-13.97
+TXN00252,CUST0042,2026-06-17,checking,Home Depot,home,-71.38
+TXN00250,CUST0042,2026-06-18,checking,Delta Airlines,travel,-179.06
+TXN00253,CUST0042,2026-06-18,checking,Amazon,shopping,-178.11
+TXN00249,CUST0042,2026-06-19,checking,Netflix,entertainment,-48.45
+TXN00261,CUST0043,2026-05-28,checking,Walmart,shopping,-113.66
+TXN00256,CUST0043,2026-05-30,checking,Walmart,shopping,-161.24
+TXN00257,CUST0043,2026-05-31,checking,Shell Gas,gas,-227.91
+TXN00255,CUST0043,2026-06-08,checking,Duke Energy,utilities,-17.62
+TXN00262,CUST0043,2026-06-10,checking,Shell Gas,gas,-179.79
+TXN00258,CUST0043,2026-06-19,savings,Amazon,shopping,-69.5
+TXN00259,CUST0043,2026-06-20,checking,Uber,transport,-94.31
+TXN00263,CUST0043,2026-06-27,checking,AT&T,utilities,-97.82
+TXN00260,CUST0043,2026-06-30,checking,Home Depot,home,-150.34
+TXN00268,CUST0044,2026-05-17,savings,Duke Energy,utilities,-8.78
+TXN00270,CUST0044,2026-05-17,checking,CVS Pharmacy,health,-132.64
+TXN00266,CUST0044,2026-05-22,checking,Kroger,groceries,-25.79
+TXN00269,CUST0044,2026-05-23,checking,Home Depot,home,-8.35
+TXN00267,CUST0044,2026-05-26,checking,Amazon,shopping,-80.73
+TXN00264,CUST0044,2026-06-02,checking,Duke Energy,utilities,-183.81
+TXN00265,CUST0044,2026-06-22,checking,Delta Airlines,travel,-201.91
+TXN00277,CUST0045,2026-05-23,checking,CVS Pharmacy,health,-107.44
+TXN00272,CUST0045,2026-05-24,checking,Kroger,groceries,-118.35
+TXN00275,CUST0045,2026-06-01,checking,Duke Energy,utilities,-168.52
+TXN00279,CUST0045,2026-06-09,checking,AT&T,utilities,-102.57
+TXN00280,CUST0045,2026-06-10,checking,Home Depot,home,-245.38
+TXN00274,CUST0045,2026-06-16,savings,Chipotle,dining,-137.23
+TXN00271,CUST0045,2026-06-19,checking,Shell Gas,gas,-27.1
+TXN00273,CUST0045,2026-06-23,checking,Delta Airlines,travel,-31.07
+TXN00278,CUST0045,2026-06-27,checking,Delta Airlines,travel,-242.74
+TXN00276,CUST0045,2026-06-29,checking,Home Depot,home,-237.26
+TXN00288,CUST0046,2026-05-18,savings,Kroger,groceries,-156.75
+TXN00283,CUST0046,2026-05-28,checking,CVS Pharmacy,health,-93.65
+TXN00284,CUST0046,2026-05-29,checking,Amazon,shopping,-110.53
+TXN00282,CUST0046,2026-06-03,savings,CVS Pharmacy,health,-65.32
+TXN00285,CUST0046,2026-06-05,checking,CVS Pharmacy,health,-38.29
+TXN00281,CUST0046,2026-06-21,checking,Duke Energy,utilities,-83.92
+TXN00286,CUST0046,2026-06-28,savings,AT&T,utilities,-115.62
+TXN00287,CUST0046,2026-06-28,savings,AT&T,utilities,-243.43
+TXN00289,CUST0046,2026-06-28,checking,Uber,transport,-137.39
+TXN00291,CUST0047,2026-05-20,checking,Kroger,groceries,-79.13
+TXN00293,CUST0047,2026-05-27,checking,Direct Deposit - Payroll,income,2132.83
+TXN00292,CUST0047,2026-05-29,checking,Amazon,shopping,-150.2
+TXN00290,CUST0047,2026-06-15,checking,Starbucks,dining,-7.36
+TXN00298,CUST0048,2026-05-26,checking,Netflix,entertainment,-94.24
+TXN00296,CUST0048,2026-06-01,checking,Home Depot,home,-138.39
+TXN00297,CUST0048,2026-06-06,checking,Uber,transport,-58.52
+TXN00294,CUST0048,2026-06-12,checking,Target,shopping,-36.32
+TXN00295,CUST0048,2026-06-15,checking,Direct Deposit - Payroll,income,1776.61
+TXN00305,CUST0049,2026-05-19,checking,Shell Gas,gas,-89.61
+TXN00302,CUST0049,2026-05-26,savings,Amazon,shopping,-62.68
+TXN00304,CUST0049,2026-05-26,checking,Starbucks,dining,-9.36
+TXN00300,CUST0049,2026-05-27,checking,Netflix,entertainment,-50.45
+TXN00301,CUST0049,2026-06-08,savings,Chipotle,dining,-101.53
+TXN00303,CUST0049,2026-06-17,checking,Walmart,shopping,-74.07
+TXN00299,CUST0049,2026-06-29,checking,Uber,transport,-205.43
+TXN00308,CUST0050,2026-05-18,checking,Chipotle,dining,-90.7
+TXN00307,CUST0050,2026-06-21,checking,Delta Airlines,travel,-239.99
+TXN00306,CUST0050,2026-06-24,checking,Delta Airlines,travel,-112.21
+TXN00311,CUST0051,2026-05-16,checking,Starbucks,dining,-178.3
+TXN00309,CUST0051,2026-05-28,checking,Uber,transport,-72.08
+TXN00310,CUST0051,2026-05-31,checking,Shell Gas,gas,-186.85
+TXN00312,CUST0051,2026-06-04,checking,Amazon,shopping,-29.43
+TXN00313,CUST0051,2026-06-05,checking,AT&T,utilities,-32.89
+TXN00314,CUST0051,2026-06-13,checking,Uber,transport,-213.09
+TXN00316,CUST0052,2026-05-28,checking,Home Depot,home,-90.83
+TXN00318,CUST0052,2026-06-06,checking,AT&T,utilities,-247.47
+TXN00315,CUST0052,2026-06-12,savings,Chipotle,dining,-174.39
+TXN00317,CUST0052,2026-06-30,checking,Delta Airlines,travel,-163.46
+TXN00327,CUST0053,2026-05-18,checking,Chipotle,dining,-14.02
+TXN00321,CUST0053,2026-05-23,savings,Duke Energy,utilities,-83.67
+TXN00324,CUST0053,2026-05-27,checking,Starbucks,dining,-126.34
+TXN00322,CUST0053,2026-06-03,checking,Duke Energy,utilities,-84.15
+TXN00325,CUST0053,2026-06-03,checking,AT&T,utilities,-156.52
+TXN00326,CUST0053,2026-06-03,checking,Delta Airlines,travel,-182.87
+TXN00319,CUST0053,2026-06-21,checking,Starbucks,dining,-78.79
+TXN00320,CUST0053,2026-06-25,checking,Chipotle,dining,-147.07
+TXN00328,CUST0053,2026-06-26,checking,Walmart,shopping,-6.55
+TXN00323,CUST0053,2026-06-27,savings,Direct Deposit - Payroll,income,1221.38
+TXN00329,CUST0054,2026-05-20,checking,Shell Gas,gas,-127.22
+TXN00331,CUST0054,2026-05-22,checking,Chipotle,dining,-112.28
+TXN00332,CUST0054,2026-05-28,savings,Direct Deposit - Payroll,income,1886.56
+TXN00334,CUST0054,2026-05-29,savings,Walmart,shopping,-207.2
+TXN00333,CUST0054,2026-06-10,checking,Home Depot,home,-46.0
+TXN00330,CUST0054,2026-06-18,savings,Delta Airlines,travel,-41.94
+TXN00337,CUST0055,2026-05-29,checking,CVS Pharmacy,health,-75.32
+TXN00336,CUST0055,2026-06-04,savings,Duke Energy,utilities,-129.18
+TXN00339,CUST0055,2026-06-08,checking,Kroger,groceries,-152.37
+TXN00335,CUST0055,2026-06-09,checking,Shell Gas,gas,-76.55
+TXN00338,CUST0055,2026-06-19,checking,Netflix,entertainment,-50.27
+TXN00342,CUST0056,2026-05-19,checking,Chipotle,dining,-148.21
+TXN00340,CUST0056,2026-06-11,checking,Home Depot,home,-197.76
+TXN00341,CUST0056,2026-06-11,checking,Home Depot,home,-4.96
+TXN00343,CUST0057,2026-05-25,checking,Netflix,entertainment,-193.17
+TXN00344,CUST0057,2026-05-29,savings,Starbucks,dining,-224.31
+TXN00345,CUST0057,2026-06-23,checking,Amazon,shopping,-105.13
+TXN00347,CUST0058,2026-05-30,checking,Shell Gas,gas,-237.17
+TXN00349,CUST0058,2026-06-10,checking,CVS Pharmacy,health,-193.56
+TXN00350,CUST0058,2026-06-20,checking,Amazon,shopping,-91.05
+TXN00348,CUST0058,2026-06-27,checking,Duke Energy,utilities,-109.93
+TXN00346,CUST0058,2026-06-29,checking,Amazon,shopping,-129.33
+TXN00351,CUST0059,2026-05-24,checking,Starbucks,dining,-215.39
+TXN00353,CUST0059,2026-05-24,checking,Kroger,groceries,-223.07
+TXN00352,CUST0059,2026-06-06,checking,Shell Gas,gas,-114.66
+TXN00356,CUST0060,2026-06-01,checking,Walmart,shopping,-217.28
+TXN00354,CUST0060,2026-06-16,checking,Target,shopping,-62.62
+TXN00355,CUST0060,2026-06-19,checking,Kroger,groceries,-148.4
+TXN00358,CUST0061,2026-05-16,checking,Shell Gas,gas,-99.89
+TXN00359,CUST0061,2026-05-16,checking,Uber,transport,-80.05
+TXN00357,CUST0061,2026-05-30,checking,Chipotle,dining,-240.17
+TXN00363,CUST0061,2026-06-05,checking,Walmart,shopping,-98.86
+TXN00362,CUST0061,2026-06-23,checking,Direct Deposit - Payroll,income,2323.07
+TXN00360,CUST0061,2026-06-25,checking,Target,shopping,-217.58
+TXN00361,CUST0061,2026-06-30,checking,Amazon,shopping,-97.24
+TXN00364,CUST0062,2026-05-26,checking,Shell Gas,gas,-228.6
+TXN00365,CUST0062,2026-06-08,checking,Netflix,entertainment,-118.89
+TXN00367,CUST0062,2026-06-22,checking,Walmart,shopping,-63.48
+TXN00366,CUST0062,2026-06-29,checking,Netflix,entertainment,-72.67
+TXN00370,CUST0063,2026-06-05,checking,Amazon,shopping,-57.25
+TXN00371,CUST0063,2026-06-11,checking,Chipotle,dining,-146.86
+TXN00369,CUST0063,2026-06-15,checking,Delta Airlines,travel,-209.73
+TXN00368,CUST0063,2026-06-22,checking,Netflix,entertainment,-209.41
+TXN00372,CUST0064,2026-05-18,checking,Delta Airlines,travel,-215.16
+TXN00380,CUST0064,2026-05-19,savings,AT&T,utilities,-82.98
+TXN00373,CUST0064,2026-05-23,savings,Amazon,shopping,-249.49
+TXN00374,CUST0064,2026-05-27,checking,Direct Deposit - Payroll,income,3179.95
+TXN00377,CUST0064,2026-06-06,savings,Delta Airlines,travel,-185.04
+TXN00381,CUST0064,2026-06-07,checking,Direct Deposit - Payroll,income,2323.98
+TXN00378,CUST0064,2026-06-11,checking,Kroger,groceries,-143.65
+TXN00379,CUST0064,2026-06-19,checking,Kroger,groceries,-25.17
+TXN00375,CUST0064,2026-06-22,checking,Netflix,entertainment,-129.51
+TXN00376,CUST0064,2026-06-25,checking,Duke Energy,utilities,-170.75
+TXN00386,CUST0065,2026-05-19,checking,Amazon,shopping,-171.19
+TXN00387,CUST0065,2026-05-19,checking,Home Depot,home,-105.49
+TXN00384,CUST0065,2026-05-21,checking,Walmart,shopping,-227.6
+TXN00388,CUST0065,2026-06-05,checking,Home Depot,home,-65.11
+TXN00383,CUST0065,2026-06-12,checking,Starbucks,dining,-180.31
+TXN00385,CUST0065,2026-06-13,checking,Direct Deposit - Payroll,income,2926.19
+TXN00382,CUST0065,2026-06-16,checking,Netflix,entertainment,-80.57
+TXN00390,CUST0066,2026-05-16,savings,Starbucks,dining,-184.58
+TXN00395,CUST0066,2026-05-19,checking,Home Depot,home,-231.72
+TXN00393,CUST0066,2026-05-21,checking,Home Depot,home,-80.49
+TXN00394,CUST0066,2026-05-30,checking,Amazon,shopping,-60.0
+TXN00392,CUST0066,2026-06-06,checking,Chipotle,dining,-78.56
+TXN00391,CUST0066,2026-06-20,checking,CVS Pharmacy,health,-13.84
+TXN00389,CUST0066,2026-06-23,checking,Direct Deposit - Payroll,income,1563.31
+TXN00396,CUST0066,2026-06-23,checking,CVS Pharmacy,health,-234.18
+TXN00403,CUST0067,2026-05-17,checking,Direct Deposit - Payroll,income,2206.15
+TXN00397,CUST0067,2026-05-23,checking,Direct Deposit - Payroll,income,2908.3
+TXN00401,CUST0067,2026-05-28,checking,Home Depot,home,-58.32
+TXN00402,CUST0067,2026-06-02,checking,Shell Gas,gas,-237.6
+TXN00400,CUST0067,2026-06-05,savings,Home Depot,home,-106.64
+TXN00399,CUST0067,2026-06-08,checking,Kroger,groceries,-55.69
+TXN00398,CUST0067,2026-06-23,checking,Home Depot,home,-64.14
+TXN00406,CUST0068,2026-05-17,checking,Target,shopping,-14.75
+TXN00411,CUST0068,2026-05-19,checking,Amazon,shopping,-177.92
+TXN00407,CUST0068,2026-05-27,checking,Duke Energy,utilities,-68.25
+TXN00408,CUST0068,2026-05-27,savings,Amazon,shopping,-160.83
+TXN00412,CUST0068,2026-05-29,checking,Target,shopping,-63.46
+TXN00404,CUST0068,2026-06-03,checking,Delta Airlines,travel,-175.77
+TXN00409,CUST0068,2026-06-08,checking,Starbucks,dining,-18.61
+TXN00413,CUST0068,2026-06-08,checking,Home Depot,home,-234.22
+TXN00410,CUST0068,2026-06-11,checking,Walmart,shopping,-53.55
+TXN00405,CUST0068,2026-06-22,checking,CVS Pharmacy,health,-232.32
+TXN00416,CUST0069,2026-05-19,checking,Chipotle,dining,-45.63
+TXN00414,CUST0069,2026-05-25,savings,Amazon,shopping,-38.9
+TXN00415,CUST0069,2026-05-26,checking,Netflix,entertainment,-204.59
+TXN00420,CUST0069,2026-06-02,checking,Starbucks,dining,-176.6
+TXN00417,CUST0069,2026-06-05,checking,Amazon,shopping,-117.45
+TXN00419,CUST0069,2026-06-13,checking,Walmart,shopping,-14.68
+TXN00418,CUST0069,2026-06-30,checking,Duke Energy,utilities,-173.77
+TXN00424,CUST0070,2026-05-25,checking,Home Depot,home,-245.13
+TXN00421,CUST0070,2026-06-07,checking,Amazon,shopping,-119.29
+TXN00423,CUST0070,2026-06-25,savings,Target,shopping,-188.61
+TXN00422,CUST0070,2026-06-30,checking,Starbucks,dining,-21.67
+TXN00431,CUST0071,2026-05-18,savings,Amazon,shopping,-133.26
+TXN00428,CUST0071,2026-05-20,checking,Direct Deposit - Payroll,income,2598.73
+TXN00427,CUST0071,2026-05-22,checking,Direct Deposit - Payroll,income,1771.95
+TXN00425,CUST0071,2026-05-30,checking,Shell Gas,gas,-239.36
+TXN00430,CUST0071,2026-06-07,checking,AT&T,utilities,-39.7
+TXN00426,CUST0071,2026-06-08,checking,Netflix,entertainment,-83.17
+TXN00429,CUST0071,2026-06-29,checking,Netflix,entertainment,-187.87
+TXN00436,CUST0072,2026-05-16,checking,Shell Gas,gas,-158.54
+TXN00432,CUST0072,2026-05-22,checking,Shell Gas,gas,-208.28
+TXN00434,CUST0072,2026-06-07,checking,Walmart,shopping,-37.54
+TXN00433,CUST0072,2026-06-08,checking,Walmart,shopping,-163.24
+TXN00435,CUST0072,2026-06-28,checking,Duke Energy,utilities,-62.89
+TXN00438,CUST0073,2026-05-23,checking,Target,shopping,-248.93
+TXN00443,CUST0073,2026-05-29,checking,Duke Energy,utilities,-209.05
+TXN00441,CUST0073,2026-05-31,savings,Shell Gas,gas,-213.26
+TXN00437,CUST0073,2026-06-03,checking,Direct Deposit - Payroll,income,1632.88
+TXN00440,CUST0073,2026-06-05,checking,Amazon,shopping,-160.64
+TXN00439,CUST0073,2026-06-16,checking,Uber,transport,-38.9
+TXN00445,CUST0073,2026-06-26,checking,Delta Airlines,travel,-223.09
+TXN00444,CUST0073,2026-06-27,checking,Chipotle,dining,-21.71
+TXN00442,CUST0073,2026-06-28,checking,Netflix,entertainment,-95.63
+TXN00447,CUST0074,2026-05-25,checking,Chipotle,dining,-113.02
+TXN00449,CUST0074,2026-05-27,checking,Delta Airlines,travel,-117.28
+TXN00453,CUST0074,2026-05-31,checking,Uber,transport,-238.39
+TXN00450,CUST0074,2026-06-05,checking,Direct Deposit - Payroll,income,1508.73
+TXN00454,CUST0074,2026-06-09,checking,CVS Pharmacy,health,-77.63
+TXN00452,CUST0074,2026-06-11,checking,Home Depot,home,-153.85
+TXN00455,CUST0074,2026-06-18,savings,Delta Airlines,travel,-10.85
+TXN00446,CUST0074,2026-06-20,checking,Kroger,groceries,-207.21
+TXN00448,CUST0074,2026-06-25,checking,CVS Pharmacy,health,-52.07
+TXN00451,CUST0074,2026-06-27,checking,Uber,transport,-203.54
+TXN00457,CUST0075,2026-06-04,checking,CVS Pharmacy,health,-140.5
+TXN00458,CUST0075,2026-06-05,checking,Walmart,shopping,-142.94
+TXN00460,CUST0075,2026-06-14,checking,Delta Airlines,travel,-58.43
+TXN00461,CUST0075,2026-06-14,checking,CVS Pharmacy,health,-134.57
+TXN00459,CUST0075,2026-06-18,checking,Starbucks,dining,-48.4
+TXN00456,CUST0075,2026-06-21,checking,CVS Pharmacy,health,-174.07
+TXN00471,CUST0076,2026-05-23,checking,Kroger,groceries,-7.73
+TXN00463,CUST0076,2026-05-24,checking,Home Depot,home,-130.24
+TXN00462,CUST0076,2026-05-25,checking,Netflix,entertainment,-59.73
+TXN00465,CUST0076,2026-05-26,checking,AT&T,utilities,-216.42
+TXN00470,CUST0076,2026-06-15,checking,Walmart,shopping,-18.16
+TXN00468,CUST0076,2026-06-20,checking,Target,shopping,-100.42
+TXN00469,CUST0076,2026-06-22,checking,Netflix,entertainment,-194.65
+TXN00466,CUST0076,2026-06-23,checking,Delta Airlines,travel,-190.2
+TXN00467,CUST0076,2026-06-24,savings,CVS Pharmacy,health,-181.51
+TXN00464,CUST0076,2026-06-26,checking,Uber,transport,-104.37
+TXN00475,CUST0077,2026-05-18,checking,Amazon,shopping,-211.0
+TXN00477,CUST0077,2026-05-30,checking,Delta Airlines,travel,-237.22
+TXN00472,CUST0077,2026-06-03,checking,Target,shopping,-178.03
+TXN00476,CUST0077,2026-06-07,checking,Kroger,groceries,-34.19
+TXN00474,CUST0077,2026-06-08,checking,Uber,transport,-183.14
+TXN00473,CUST0077,2026-06-18,savings,Direct Deposit - Payroll,income,2442.34
+TXN00479,CUST0078,2026-05-18,checking,Walmart,shopping,-31.79
+TXN00478,CUST0078,2026-05-26,checking,Duke Energy,utilities,-28.51
+TXN00480,CUST0078,2026-06-02,checking,Netflix,entertainment,-51.51
+TXN00483,CUST0079,2026-05-18,checking,Amazon,shopping,-75.35
+TXN00482,CUST0079,2026-06-19,checking,Target,shopping,-200.97
+TXN00481,CUST0079,2026-06-29,savings,Duke Energy,utilities,-112.21
+TXN00488,CUST0080,2026-05-18,checking,Shell Gas,gas,-205.3
+TXN00490,CUST0080,2026-05-22,checking,Home Depot,home,-100.78
+TXN00484,CUST0080,2026-05-27,checking,Duke Energy,utilities,-219.35
+TXN00486,CUST0080,2026-05-30,checking,Kroger,groceries,-248.64
+TXN00485,CUST0080,2026-06-02,checking,Home Depot,home,-70.1
+TXN00491,CUST0080,2026-06-17,checking,Delta Airlines,travel,-85.0
+TXN00489,CUST0080,2026-06-20,checking,Uber,transport,-121.04
+TXN00487,CUST0080,2026-06-28,checking,Delta Airlines,travel,-11.78
+TXN00492,CUST0080,2026-06-28,savings,Starbucks,dining,-148.95
+TXN00496,CUST0081,2026-05-23,checking,Kroger,groceries,-219.56
+TXN00493,CUST0081,2026-06-09,checking,Amazon,shopping,-182.9
+TXN00494,CUST0081,2026-06-10,checking,Uber,transport,-234.6
+TXN00498,CUST0081,2026-06-14,checking,Starbucks,dining,-19.62
+TXN00495,CUST0081,2026-06-16,checking,Kroger,groceries,-122.93
+TXN00497,CUST0081,2026-06-21,checking,Kroger,groceries,-182.83
+TXN00501,CUST0082,2026-05-25,checking,Duke Energy,utilities,-108.86
+TXN00505,CUST0082,2026-05-26,savings,Delta Airlines,travel,-64.32
+TXN00504,CUST0082,2026-06-07,savings,Starbucks,dining,-88.01
+TXN00506,CUST0082,2026-06-09,checking,Home Depot,home,-18.87
+TXN00502,CUST0082,2026-06-15,checking,CVS Pharmacy,health,-198.81
+TXN00499,CUST0082,2026-06-22,checking,Uber,transport,-147.77
+TXN00500,CUST0082,2026-06-24,checking,Home Depot,home,-141.91
+TXN00503,CUST0082,2026-06-26,checking,Duke Energy,utilities,-38.72
+TXN00509,CUST0083,2026-05-19,checking,Amazon,shopping,-5.78
+TXN00512,CUST0083,2026-05-26,checking,Home Depot,home,-182.76
+TXN00507,CUST0083,2026-06-07,savings,Direct Deposit - Payroll,income,2162.93
+TXN00508,CUST0083,2026-06-08,checking,Direct Deposit - Payroll,income,1669.63
+TXN00510,CUST0083,2026-06-11,checking,Target,shopping,-101.43
+TXN00511,CUST0083,2026-06-11,checking,Direct Deposit - Payroll,income,1332.65
+TXN00514,CUST0083,2026-06-11,savings,Uber,transport,-147.89
+TXN00513,CUST0083,2026-06-18,savings,CVS Pharmacy,health,-87.75
+TXN00522,CUST0084,2026-05-25,checking,Amazon,shopping,-23.51
+TXN00520,CUST0084,2026-05-29,checking,Target,shopping,-152.31
+TXN00516,CUST0084,2026-05-30,savings,Home Depot,home,-20.67
+TXN00515,CUST0084,2026-06-03,checking,Target,shopping,-194.51
+TXN00519,CUST0084,2026-06-05,checking,Netflix,entertainment,-57.71
+TXN00518,CUST0084,2026-06-13,checking,Delta Airlines,travel,-44.48
+TXN00517,CUST0084,2026-06-14,savings,Walmart,shopping,-71.86
+TXN00521,CUST0084,2026-06-27,checking,CVS Pharmacy,health,-63.47
+TXN00523,CUST0085,2026-05-27,checking,Home Depot,home,-50.29
+TXN00528,CUST0085,2026-05-30,checking,Shell Gas,gas,-86.29
+TXN00526,CUST0085,2026-06-09,checking,CVS Pharmacy,health,-154.01
+TXN00530,CUST0085,2026-06-10,savings,Kroger,groceries,-142.78
+TXN00527,CUST0085,2026-06-28,checking,Amazon,shopping,-105.91
+TXN00524,CUST0085,2026-06-29,savings,CVS Pharmacy,health,-161.41
+TXN00525,CUST0085,2026-06-29,checking,Netflix,entertainment,-217.46
+TXN00529,CUST0085,2026-06-30,checking,Uber,transport,-235.3
+TXN00533,CUST0086,2026-06-07,checking,Delta Airlines,travel,-26.11
+TXN00531,CUST0086,2026-06-09,checking,Chipotle,dining,-182.14
+TXN00532,CUST0086,2026-06-21,checking,Amazon,shopping,-42.42
+TXN00536,CUST0087,2026-05-16,checking,Netflix,entertainment,-67.43
+TXN00534,CUST0087,2026-05-26,checking,Walmart,shopping,-148.77
+TXN00538,CUST0087,2026-06-01,checking,CVS Pharmacy,health,-244.44
+TXN00535,CUST0087,2026-06-09,checking,Amazon,shopping,-151.99
+TXN00537,CUST0087,2026-06-11,checking,Target,shopping,-194.89
+TXN00539,CUST0087,2026-06-13,checking,Delta Airlines,travel,-132.74
+TXN00541,CUST0087,2026-06-21,checking,CVS Pharmacy,health,-244.31
+TXN00540,CUST0087,2026-06-24,checking,Amazon,shopping,-141.3
+TXN00542,CUST0087,2026-06-25,checking,CVS Pharmacy,health,-190.12
+TXN00544,CUST0088,2026-05-23,checking,Netflix,entertainment,-48.73
+TXN00543,CUST0088,2026-05-29,checking,Uber,transport,-18.8
+TXN00545,CUST0088,2026-06-20,checking,Walmart,shopping,-226.1
+TXN00546,CUST0089,2026-05-30,checking,Walmart,shopping,-63.68
+TXN00547,CUST0089,2026-06-06,checking,Netflix,entertainment,-88.68
+TXN00548,CUST0089,2026-06-29,checking,Target,shopping,-198.3
+TXN00549,CUST0090,2026-05-20,checking,CVS Pharmacy,health,-20.1
+TXN00551,CUST0090,2026-06-06,checking,Netflix,entertainment,-104.84
+TXN00552,CUST0090,2026-06-14,checking,CVS Pharmacy,health,-59.12
+TXN00550,CUST0090,2026-06-27,checking,Direct Deposit - Payroll,income,2928.12
+TXN00555,CUST0091,2026-05-25,savings,Starbucks,dining,-126.66
+TXN00553,CUST0091,2026-06-08,checking,Starbucks,dining,-63.49
+TXN00554,CUST0091,2026-06-13,checking,Netflix,entertainment,-108.7
+TXN00559,CUST0092,2026-06-02,checking,Amazon,shopping,-154.12
+TXN00556,CUST0092,2026-06-13,savings,Target,shopping,-217.84
+TXN00558,CUST0092,2026-06-15,checking,Walmart,shopping,-218.54
+TXN00560,CUST0092,2026-06-17,checking,Netflix,entertainment,-221.18
+TXN00557,CUST0092,2026-06-25,checking,AT&T,utilities,-77.82
+TXN00568,CUST0093,2026-05-17,checking,Uber,transport,-198.86
+TXN00566,CUST0093,2026-05-19,checking,Shell Gas,gas,-161.97
+TXN00565,CUST0093,2026-06-05,checking,Shell Gas,gas,-118.26
+TXN00564,CUST0093,2026-06-08,savings,Amazon,shopping,-41.1
+TXN00562,CUST0093,2026-06-11,savings,Chipotle,dining,-248.73
+TXN00561,CUST0093,2026-06-19,checking,Kroger,groceries,-216.38
+TXN00567,CUST0093,2026-06-28,checking,Home Depot,home,-86.57
+TXN00563,CUST0093,2026-06-30,checking,CVS Pharmacy,health,-31.44
+TXN00569,CUST0094,2026-05-25,checking,Kroger,groceries,-150.41
+TXN00571,CUST0094,2026-06-23,checking,Direct Deposit - Payroll,income,2957.14
+TXN00570,CUST0094,2026-06-27,checking,Chipotle,dining,-183.21
+TXN00581,CUST0095,2026-05-16,savings,Chipotle,dining,-219.02
+TXN00580,CUST0095,2026-05-17,checking,Target,shopping,-139.01
+TXN00579,CUST0095,2026-05-20,checking,Starbucks,dining,-173.28
+TXN00573,CUST0095,2026-05-27,checking,CVS Pharmacy,health,-159.77
+TXN00574,CUST0095,2026-05-30,savings,Delta Airlines,travel,-134.36
+TXN00578,CUST0095,2026-06-07,checking,Delta Airlines,travel,-198.22
+TXN00572,CUST0095,2026-06-16,checking,Amazon,shopping,-4.63
+TXN00575,CUST0095,2026-06-16,checking,Direct Deposit - Payroll,income,3140.98
+TXN00577,CUST0095,2026-06-18,checking,Starbucks,dining,-241.72
+TXN00576,CUST0095,2026-06-30,checking,Home Depot,home,-177.08
+TXN00587,CUST0096,2026-05-22,checking,Duke Energy,utilities,-32.58
+TXN00583,CUST0096,2026-06-04,checking,Amazon,shopping,-98.81
+TXN00588,CUST0096,2026-06-05,checking,AT&T,utilities,-180.24
+TXN00582,CUST0096,2026-06-06,checking,Chipotle,dining,-136.84
+TXN00585,CUST0096,2026-06-14,checking,Netflix,entertainment,-231.87
+TXN00586,CUST0096,2026-06-15,checking,Home Depot,home,-96.73
+TXN00584,CUST0096,2026-06-30,checking,AT&T,utilities,-249.6
+TXN00590,CUST0097,2026-05-20,savings,Target,shopping,-4.23
+TXN00591,CUST0097,2026-05-27,checking,Duke Energy,utilities,-88.22
+TXN00593,CUST0097,2026-05-28,checking,Walmart,shopping,-100.81
+TXN00596,CUST0097,2026-05-31,checking,Direct Deposit - Payroll,income,1729.86
+TXN00592,CUST0097,2026-06-06,checking,Chipotle,dining,-158.86
+TXN00589,CUST0097,2026-06-10,checking,CVS Pharmacy,health,-139.04
+TXN00594,CUST0097,2026-06-10,checking,Starbucks,dining,-170.59
+TXN00595,CUST0097,2026-06-16,checking,Shell Gas,gas,-137.59
+TXN00601,CUST0098,2026-05-20,checking,Amazon,shopping,-207.55
+TXN00598,CUST0098,2026-05-28,savings,Shell Gas,gas,-134.07
+TXN00600,CUST0098,2026-06-01,checking,CVS Pharmacy,health,-206.18
+TXN00603,CUST0098,2026-06-04,savings,Duke Energy,utilities,-109.3
+TXN00602,CUST0098,2026-06-07,savings,Duke Energy,utilities,-83.2
+TXN00604,CUST0098,2026-06-07,checking,Amazon,shopping,-96.29
+TXN00599,CUST0098,2026-06-15,checking,Netflix,entertainment,-204.08
+TXN00597,CUST0098,2026-06-21,checking,Delta Airlines,travel,-144.39
+TXN00609,CUST0099,2026-05-22,checking,Walmart,shopping,-166.43
+TXN00612,CUST0099,2026-05-27,checking,Kroger,groceries,-79.41
+TXN00605,CUST0099,2026-06-02,checking,CVS Pharmacy,health,-132.25
+TXN00606,CUST0099,2026-06-02,checking,CVS Pharmacy,health,-101.3
+TXN00610,CUST0099,2026-06-14,checking,Walmart,shopping,-201.18
+TXN00611,CUST0099,2026-06-14,checking,Kroger,groceries,-4.2
+TXN00607,CUST0099,2026-06-19,checking,Home Depot,home,-160.12
+TXN00608,CUST0099,2026-06-22,checking,AT&T,utilities,-5.46
+TXN00616,CUST0100,2026-05-16,checking,Uber,transport,-230.45
+TXN00613,CUST0100,2026-06-02,checking,Direct Deposit - Payroll,income,1683.66
+TXN00615,CUST0100,2026-06-12,checking,Netflix,entertainment,-239.76
+TXN00617,CUST0100,2026-06-12,checking,Target,shopping,-14.27
+TXN00618,CUST0100,2026-06-14,checking,Chipotle,dining,-153.43
+TXN00619,CUST0100,2026-06-22,checking,Walmart,shopping,-213.03
+TXN00614,CUST0100,2026-06-25,checking,Shell Gas,gas,-125.37
+TXN00620,CUST0101,2026-05-19,checking,Duke Energy,utilities,-95.6
+TXN00622,CUST0101,2026-05-20,checking,Chipotle,dining,-106.02
+TXN00623,CUST0101,2026-05-25,checking,AT&T,utilities,-30.52
+TXN00621,CUST0101,2026-06-02,checking,Netflix,entertainment,-21.41
+TXN00624,CUST0101,2026-06-03,savings,Target,shopping,-176.43
+TXN00625,CUST0101,2026-06-26,savings,Chipotle,dining,-47.35
+TXN00633,CUST0102,2026-05-26,checking,Home Depot,home,-216.3
+TXN00627,CUST0102,2026-05-27,checking,CVS Pharmacy,health,-53.26
+TXN00628,CUST0102,2026-06-09,savings,Kroger,groceries,-76.32
+TXN00631,CUST0102,2026-06-17,checking,Shell Gas,gas,-212.65
+TXN00632,CUST0102,2026-06-18,checking,Uber,transport,-206.7
+TXN00635,CUST0102,2026-06-21,checking,Chipotle,dining,-218.5
+TXN00634,CUST0102,2026-06-22,checking,Home Depot,home,-211.53
+TXN00629,CUST0102,2026-06-25,checking,AT&T,utilities,-117.13
+TXN00626,CUST0102,2026-06-30,checking,Chipotle,dining,-129.9
+TXN00630,CUST0102,2026-06-30,checking,Netflix,entertainment,-144.47
+TXN00638,CUST0103,2026-05-26,checking,Chipotle,dining,-215.28
+TXN00642,CUST0103,2026-06-01,checking,Kroger,groceries,-164.45
+TXN00640,CUST0103,2026-06-03,checking,Starbucks,dining,-217.23
+TXN00643,CUST0103,2026-06-07,checking,CVS Pharmacy,health,-147.61
+TXN00637,CUST0103,2026-06-10,checking,Delta Airlines,travel,-68.54
+TXN00636,CUST0103,2026-06-19,checking,Walmart,shopping,-245.63
+TXN00641,CUST0103,2026-06-22,checking,Duke Energy,utilities,-79.02
+TXN00639,CUST0103,2026-06-27,checking,Chipotle,dining,-107.37
+TXN00644,CUST0104,2026-05-19,checking,Netflix,entertainment,-177.9
+TXN00650,CUST0104,2026-05-21,checking,Direct Deposit - Payroll,income,1560.27
+TXN00648,CUST0104,2026-05-22,checking,Home Depot,home,-243.4
+TXN00649,CUST0104,2026-06-17,checking,Target,shopping,-183.04
+TXN00647,CUST0104,2026-06-18,checking,Starbucks,dining,-112.02
+TXN00645,CUST0104,2026-06-26,checking,Kroger,groceries,-6.09
+TXN00651,CUST0104,2026-06-26,checking,Shell Gas,gas,-216.21
+TXN00646,CUST0104,2026-06-28,savings,Chipotle,dining,-206.55
+TXN00657,CUST0105,2026-05-16,checking,Chipotle,dining,-209.06
+TXN00659,CUST0105,2026-06-02,checking,Direct Deposit - Payroll,income,1283.51
+TXN00660,CUST0105,2026-06-10,checking,Starbucks,dining,-219.18
+TXN00653,CUST0105,2026-06-12,checking,Target,shopping,-181.23
+TXN00661,CUST0105,2026-06-14,checking,Home Depot,home,-41.88
+TXN00652,CUST0105,2026-06-20,checking,Amazon,shopping,-181.43
+TXN00654,CUST0105,2026-06-21,checking,AT&T,utilities,-210.22
+TXN00655,CUST0105,2026-06-24,savings,AT&T,utilities,-54.9
+TXN00656,CUST0105,2026-06-27,checking,Target,shopping,-196.93
+TXN00658,CUST0105,2026-06-27,checking,Direct Deposit - Payroll,income,2049.15
+TXN00662,CUST0106,2026-05-19,checking,Delta Airlines,travel,-41.37
+TXN00664,CUST0106,2026-05-27,checking,Amazon,shopping,-58.95
+TXN00669,CUST0106,2026-05-30,checking,Target,shopping,-188.59
+TXN00663,CUST0106,2026-06-06,checking,Netflix,entertainment,-12.1
+TXN00668,CUST0106,2026-06-12,savings,CVS Pharmacy,health,-133.48
+TXN00667,CUST0106,2026-06-17,checking,Duke Energy,utilities,-165.74
+TXN00665,CUST0106,2026-06-19,checking,Home Depot,home,-118.26
+TXN00666,CUST0106,2026-06-28,checking,Chipotle,dining,-102.74
+TXN00670,CUST0107,2026-05-23,checking,Netflix,entertainment,-216.54
+TXN00673,CUST0107,2026-05-23,savings,Uber,transport,-11.97
+TXN00672,CUST0107,2026-06-16,checking,Target,shopping,-223.69
+TXN00671,CUST0107,2026-06-22,checking,Uber,transport,-25.75
+TXN00674,CUST0108,2026-05-19,checking,Kroger,groceries,-236.32
+TXN00675,CUST0108,2026-06-02,checking,Starbucks,dining,-85.95
+TXN00676,CUST0108,2026-06-19,checking,Target,shopping,-186.62
+TXN00677,CUST0108,2026-06-26,checking,Shell Gas,gas,-77.37
+TXN00680,CUST0109,2026-05-17,checking,Delta Airlines,travel,-105.6
+TXN00687,CUST0109,2026-05-25,checking,Shell Gas,gas,-64.51
+TXN00686,CUST0109,2026-05-27,checking,Shell Gas,gas,-70.54
+TXN00682,CUST0109,2026-06-07,checking,Walmart,shopping,-184.62
+TXN00684,CUST0109,2026-06-11,checking,Duke Energy,utilities,-209.85
+TXN00685,CUST0109,2026-06-15,checking,Amazon,shopping,-30.21
+TXN00678,CUST0109,2026-06-20,checking,Shell Gas,gas,-31.79
+TXN00681,CUST0109,2026-06-26,checking,Amazon,shopping,-209.95
+TXN00679,CUST0109,2026-06-28,checking,Uber,transport,-12.83
+TXN00683,CUST0109,2026-06-30,checking,Amazon,shopping,-26.15
+TXN00688,CUST0110,2026-06-12,checking,Delta Airlines,travel,-237.55
+TXN00689,CUST0110,2026-06-15,checking,Chipotle,dining,-247.06
+TXN00690,CUST0110,2026-06-24,savings,Home Depot,home,-127.44
+TXN00691,CUST0111,2026-05-17,savings,Shell Gas,gas,-124.15
+TXN00692,CUST0111,2026-06-25,checking,Uber,transport,-186.95
+TXN00693,CUST0111,2026-06-29,checking,AT&T,utilities,-210.9
+TXN00700,CUST0112,2026-05-24,checking,Walmart,shopping,-190.75
+TXN00694,CUST0112,2026-05-25,checking,Chipotle,dining,-30.96
+TXN00696,CUST0112,2026-05-29,checking,Netflix,entertainment,-194.64
+TXN00701,CUST0112,2026-06-04,checking,Direct Deposit - Payroll,income,1834.96
+TXN00699,CUST0112,2026-06-11,checking,Uber,transport,-46.98
+TXN00702,CUST0112,2026-06-15,checking,AT&T,utilities,-25.66
+TXN00695,CUST0112,2026-06-17,checking,Direct Deposit - Payroll,income,2527.78
+TXN00698,CUST0112,2026-06-17,checking,Uber,transport,-28.13
+TXN00697,CUST0112,2026-06-26,checking,Home Depot,home,-206.06
+TXN00707,CUST0113,2026-05-23,checking,AT&T,utilities,-20.98
+TXN00706,CUST0113,2026-05-28,savings,AT&T,utilities,-13.28
+TXN00703,CUST0113,2026-06-08,checking,Home Depot,home,-45.12
+TXN00704,CUST0113,2026-06-16,checking,AT&T,utilities,-52.76
+TXN00705,CUST0113,2026-06-30,checking,CVS Pharmacy,health,-244.09
+TXN00711,CUST0114,2026-05-17,checking,AT&T,utilities,-37.2
+TXN00710,CUST0114,2026-05-18,checking,Uber,transport,-241.57
+TXN00708,CUST0114,2026-06-07,savings,Netflix,entertainment,-16.38
+TXN00709,CUST0114,2026-06-08,checking,AT&T,utilities,-164.13
+TXN00712,CUST0115,2026-05-18,checking,Direct Deposit - Payroll,income,2132.31
+TXN00718,CUST0115,2026-05-18,checking,Direct Deposit - Payroll,income,3016.24
+TXN00713,CUST0115,2026-05-21,checking,Uber,transport,-98.91
+TXN00714,CUST0115,2026-05-24,savings,AT&T,utilities,-130.19
+TXN00717,CUST0115,2026-06-15,checking,Netflix,entertainment,-116.64
+TXN00716,CUST0115,2026-06-16,checking,AT&T,utilities,-65.99
+TXN00715,CUST0115,2026-06-26,checking,Delta Airlines,travel,-159.6
+TXN00721,CUST0116,2026-05-18,savings,Chipotle,dining,-60.17
+TXN00719,CUST0116,2026-05-21,checking,Chipotle,dining,-101.12
+TXN00720,CUST0116,2026-06-06,checking,CVS Pharmacy,health,-88.29
+TXN00729,CUST0117,2026-05-18,checking,Delta Airlines,travel,-33.69
+TXN00728,CUST0117,2026-05-19,checking,Amazon,shopping,-112.74
+TXN00726,CUST0117,2026-05-22,checking,Shell Gas,gas,-211.76
+TXN00724,CUST0117,2026-05-23,checking,Direct Deposit - Payroll,income,2037.31
+TXN00722,CUST0117,2026-06-11,checking,CVS Pharmacy,health,-209.73
+TXN00727,CUST0117,2026-06-13,checking,Kroger,groceries,-25.64
+TXN00725,CUST0117,2026-06-17,checking,Starbucks,dining,-86.51
+TXN00723,CUST0117,2026-06-23,checking,Kroger,groceries,-152.54
+TXN00732,CUST0118,2026-06-05,savings,Walmart,shopping,-154.12
+TXN00730,CUST0118,2026-06-13,checking,Chipotle,dining,-49.29
+TXN00731,CUST0118,2026-06-16,savings,Walmart,shopping,-93.14
+TXN00739,CUST0119,2026-05-19,savings,Amazon,shopping,-223.88
+TXN00733,CUST0119,2026-05-23,checking,Target,shopping,-219.55
+TXN00737,CUST0119,2026-05-26,checking,Home Depot,home,-28.82
+TXN00734,CUST0119,2026-06-05,savings,Netflix,entertainment,-242.19
+TXN00738,CUST0119,2026-06-06,savings,Home Depot,home,-130.41
+TXN00736,CUST0119,2026-06-14,checking,Netflix,entertainment,-203.11
+TXN00735,CUST0119,2026-06-24,checking,Delta Airlines,travel,-213.96
+TXN00742,CUST0120,2026-05-18,checking,CVS Pharmacy,health,-132.46
+TXN00744,CUST0120,2026-05-18,savings,Home Depot,home,-18.02
+TXN00741,CUST0120,2026-05-21,checking,Starbucks,dining,-166.65
+TXN00748,CUST0120,2026-05-24,savings,Direct Deposit - Payroll,income,1489.05
+TXN00745,CUST0120,2026-05-29,checking,Shell Gas,gas,-114.14
+TXN00746,CUST0120,2026-06-01,checking,Direct Deposit - Payroll,income,2414.15
+TXN00743,CUST0120,2026-06-07,savings,Kroger,groceries,-126.54
+TXN00740,CUST0120,2026-06-13,checking,Shell Gas,gas,-85.46
+TXN00747,CUST0120,2026-06-30,savings,Kroger,groceries,-122.69
+TXN00751,CUST0121,2026-05-20,checking,Kroger,groceries,-244.63
+TXN00750,CUST0121,2026-05-27,checking,CVS Pharmacy,health,-75.63
+TXN00749,CUST0121,2026-06-13,checking,Chipotle,dining,-149.03
+TXN00752,CUST0122,2026-05-30,savings,AT&T,utilities,-161.3
+TXN00753,CUST0122,2026-06-10,checking,Home Depot,home,-226.1
+TXN00755,CUST0122,2026-06-18,checking,AT&T,utilities,-223.86
+TXN00754,CUST0122,2026-06-27,checking,Amazon,shopping,-125.96
+TXN00756,CUST0123,2026-05-18,checking,Amazon,shopping,-132.05
+TXN00757,CUST0123,2026-06-06,savings,Starbucks,dining,-148.47
+TXN00758,CUST0123,2026-06-19,savings,AT&T,utilities,-240.68
+TXN00760,CUST0124,2026-05-18,savings,Walmart,shopping,-103.16
+TXN00765,CUST0124,2026-05-19,checking,AT&T,utilities,-166.69
+TXN00759,CUST0124,2026-05-22,savings,Starbucks,dining,-120.78
+TXN00762,CUST0124,2026-05-22,checking,Starbucks,dining,-231.75
+TXN00761,CUST0124,2026-05-31,checking,Starbucks,dining,-82.63
+TXN00764,CUST0124,2026-06-13,savings,AT&T,utilities,-14.81
+TXN00763,CUST0124,2026-06-20,checking,Target,shopping,-104.43
+TXN00766,CUST0125,2026-05-16,checking,AT&T,utilities,-100.34
+TXN00772,CUST0125,2026-05-16,checking,CVS Pharmacy,health,-209.26
+TXN00767,CUST0125,2026-05-21,checking,Direct Deposit - Payroll,income,2821.96
+TXN00771,CUST0125,2026-05-23,checking,Direct Deposit - Payroll,income,2297.09
+TXN00774,CUST0125,2026-06-05,checking,Home Depot,home,-174.24
+TXN00769,CUST0125,2026-06-08,checking,Delta Airlines,travel,-143.35
+TXN00770,CUST0125,2026-06-15,savings,Uber,transport,-69.32
+TXN00773,CUST0125,2026-06-19,savings,Shell Gas,gas,-44.82
+TXN00768,CUST0125,2026-06-28,checking,Shell Gas,gas,-193.76
+TXN00780,CUST0126,2026-05-19,checking,Shell Gas,gas,-213.58
+TXN00781,CUST0126,2026-05-25,checking,Netflix,entertainment,-103.31
+TXN00777,CUST0126,2026-05-27,checking,Duke Energy,utilities,-218.42
+TXN00779,CUST0126,2026-06-04,checking,Amazon,shopping,-171.75
+TXN00776,CUST0126,2026-06-08,checking,Chipotle,dining,-202.21
+TXN00775,CUST0126,2026-06-09,savings,Duke Energy,utilities,-186.64
+TXN00778,CUST0126,2026-06-12,checking,Home Depot,home,-168.67
+TXN00783,CUST0126,2026-06-15,checking,Amazon,shopping,-213.02
+TXN00782,CUST0126,2026-06-22,checking,Home Depot,home,-211.82
+TXN00785,CUST0127,2026-05-16,savings,Chipotle,dining,-36.29
+TXN00784,CUST0127,2026-05-20,checking,Direct Deposit - Payroll,income,1266.94
+TXN00787,CUST0127,2026-05-29,checking,Home Depot,home,-152.42
+TXN00786,CUST0127,2026-06-13,checking,Direct Deposit - Payroll,income,2424.7
+TXN00793,CUST0128,2026-05-23,savings,Kroger,groceries,-149.2
+TXN00792,CUST0128,2026-05-29,checking,CVS Pharmacy,health,-113.93
+TXN00791,CUST0128,2026-06-01,savings,Duke Energy,utilities,-57.72
+TXN00794,CUST0128,2026-06-01,checking,AT&T,utilities,-136.31
+TXN00790,CUST0128,2026-06-23,checking,Walmart,shopping,-131.25
+TXN00788,CUST0128,2026-06-24,checking,Uber,transport,-59.07
+TXN00789,CUST0128,2026-06-25,checking,Walmart,shopping,-243.81
+TXN00797,CUST0129,2026-05-25,checking,AT&T,utilities,-73.3
+TXN00796,CUST0129,2026-05-26,checking,Walmart,shopping,-60.65
+TXN00795,CUST0129,2026-06-09,checking,Target,shopping,-158.84
+TXN00798,CUST0129,2026-06-19,checking,Delta Airlines,travel,-58.85
+TXN00801,CUST0130,2026-06-04,checking,Chipotle,dining,-238.81
+TXN00800,CUST0130,2026-06-23,checking,CVS Pharmacy,health,-26.02
+TXN00799,CUST0130,2026-06-26,checking,AT&T,utilities,-108.28
+TXN00807,CUST0131,2026-05-28,checking,Starbucks,dining,-22.81
+TXN00804,CUST0131,2026-06-01,checking,CVS Pharmacy,health,-36.9
+TXN00802,CUST0131,2026-06-07,savings,CVS Pharmacy,health,-248.94
+TXN00805,CUST0131,2026-06-18,savings,CVS Pharmacy,health,-155.95
+TXN00806,CUST0131,2026-06-20,checking,Walmart,shopping,-31.52
+TXN00803,CUST0131,2026-06-26,checking,Delta Airlines,travel,-246.62
+TXN00809,CUST0132,2026-05-17,checking,AT&T,utilities,-141.83
+TXN00808,CUST0132,2026-06-18,checking,Target,shopping,-198.4
+TXN00810,CUST0132,2026-06-29,savings,Duke Energy,utilities,-187.92
+TXN00811,CUST0133,2026-05-20,checking,Shell Gas,gas,-106.81
+TXN00812,CUST0133,2026-05-26,checking,Home Depot,home,-136.28
+TXN00813,CUST0133,2026-06-10,checking,Walmart,shopping,-143.08
+TXN00815,CUST0134,2026-05-16,checking,Walmart,shopping,-11.23
+TXN00814,CUST0134,2026-05-17,checking,Starbucks,dining,-185.88
+TXN00821,CUST0134,2026-05-28,checking,Direct Deposit - Payroll,income,1756.62
+TXN00819,CUST0134,2026-05-29,checking,Duke Energy,utilities,-142.6
+TXN00816,CUST0134,2026-06-21,checking,Target,shopping,-88.36
+TXN00818,CUST0134,2026-06-22,checking,Direct Deposit - Payroll,income,1837.05
+TXN00817,CUST0134,2026-06-25,checking,Walmart,shopping,-119.93
+TXN00820,CUST0134,2026-06-29,checking,Chipotle,dining,-65.98
+TXN00827,CUST0135,2026-05-21,checking,Uber,transport,-117.59
+TXN00830,CUST0135,2026-05-21,checking,Netflix,entertainment,-144.73
+TXN00823,CUST0135,2026-05-24,checking,Amazon,shopping,-31.34
+TXN00825,CUST0135,2026-05-25,checking,Target,shopping,-54.17
+TXN00822,CUST0135,2026-06-03,checking,AT&T,utilities,-98.5
+TXN00828,CUST0135,2026-06-08,checking,Direct Deposit - Payroll,income,1686.83
+TXN00826,CUST0135,2026-06-09,savings,Delta Airlines,travel,-215.2
+TXN00829,CUST0135,2026-06-22,savings,Chipotle,dining,-28.12
+TXN00824,CUST0135,2026-06-25,checking,Delta Airlines,travel,-6.24
+TXN00832,CUST0136,2026-05-18,checking,Duke Energy,utilities,-102.45
+TXN00833,CUST0136,2026-05-20,checking,Duke Energy,utilities,-62.99
+TXN00838,CUST0136,2026-06-15,checking,CVS Pharmacy,health,-163.35
+TXN00836,CUST0136,2026-06-16,checking,Home Depot,home,-246.76
+TXN00837,CUST0136,2026-06-16,checking,Kroger,groceries,-197.86
+TXN00840,CUST0136,2026-06-16,checking,Kroger,groceries,-102.89
+TXN00834,CUST0136,2026-06-21,checking,Target,shopping,-120.04
+TXN00835,CUST0136,2026-06-26,savings,Shell Gas,gas,-151.37
+TXN00831,CUST0136,2026-06-27,checking,AT&T,utilities,-182.22
+TXN00839,CUST0136,2026-06-30,savings,Shell Gas,gas,-53.23
+TXN00843,CUST0137,2026-05-16,savings,AT&T,utilities,-190.84
+TXN00842,CUST0137,2026-05-31,checking,Starbucks,dining,-119.11
+TXN00841,CUST0137,2026-06-04,checking,Direct Deposit - Payroll,income,2356.12
+TXN00844,CUST0138,2026-05-22,checking,Amazon,shopping,-134.16
+TXN00847,CUST0138,2026-05-26,checking,Delta Airlines,travel,-25.06
+TXN00845,CUST0138,2026-06-06,checking,Delta Airlines,travel,-129.41
+TXN00846,CUST0138,2026-06-29,savings,Direct Deposit - Payroll,income,1344.28
+TXN00850,CUST0139,2026-06-01,checking,Kroger,groceries,-128.72
+TXN00848,CUST0139,2026-06-12,checking,Home Depot,home,-138.19
+TXN00849,CUST0139,2026-06-17,checking,Target,shopping,-5.88
+TXN00851,CUST0139,2026-06-17,checking,Netflix,entertainment,-163.91
+TXN00859,CUST0140,2026-05-22,checking,Delta Airlines,travel,-246.0
+TXN00852,CUST0140,2026-05-28,checking,Shell Gas,gas,-25.24
+TXN00856,CUST0140,2026-06-09,checking,Amazon,shopping,-145.75
+TXN00855,CUST0140,2026-06-12,checking,Walmart,shopping,-80.07
+TXN00853,CUST0140,2026-06-15,checking,Walmart,shopping,-25.61
+TXN00858,CUST0140,2026-06-17,checking,Shell Gas,gas,-192.77
+TXN00854,CUST0140,2026-06-25,savings,Duke Energy,utilities,-245.98
+TXN00860,CUST0140,2026-06-25,checking,Uber,transport,-229.44
+TXN00857,CUST0140,2026-06-28,checking,AT&T,utilities,-23.4
+TXN00861,CUST0141,2026-05-19,checking,Duke Energy,utilities,-183.39
+TXN00863,CUST0141,2026-06-14,checking,Amazon,shopping,-76.17
+TXN00862,CUST0141,2026-06-27,checking,CVS Pharmacy,health,-228.15
+TXN00866,CUST0142,2026-05-22,checking,CVS Pharmacy,health,-120.44
+TXN00868,CUST0142,2026-05-27,checking,Starbucks,dining,-7.24
+TXN00867,CUST0142,2026-06-10,checking,Duke Energy,utilities,-188.61
+TXN00865,CUST0142,2026-06-20,checking,Walmart,shopping,-43.89
+TXN00864,CUST0142,2026-06-29,checking,Starbucks,dining,-212.19
+TXN00869,CUST0143,2026-06-09,checking,Walmart,shopping,-222.03
+TXN00870,CUST0143,2026-06-09,checking,Kroger,groceries,-194.64
+TXN00871,CUST0143,2026-06-28,checking,AT&T,utilities,-43.68
+TXN00878,CUST0144,2026-05-17,checking,Uber,transport,-172.97
+TXN00875,CUST0144,2026-05-21,savings,Direct Deposit - Payroll,income,2579.59
+TXN00872,CUST0144,2026-05-27,checking,Chipotle,dining,-94.31
+TXN00873,CUST0144,2026-05-28,savings,Shell Gas,gas,-43.63
+TXN00874,CUST0144,2026-06-04,checking,Kroger,groceries,-136.45
+TXN00879,CUST0144,2026-06-09,checking,Home Depot,home,-100.17
+TXN00877,CUST0144,2026-06-19,checking,Home Depot,home,-180.09
+TXN00876,CUST0144,2026-06-30,checking,Shell Gas,gas,-57.64
+TXN00882,CUST0145,2026-05-17,checking,Amazon,shopping,-151.07
+TXN00880,CUST0145,2026-05-20,checking,Kroger,groceries,-217.1
+TXN00881,CUST0145,2026-05-24,checking,Starbucks,dining,-165.37
+TXN00885,CUST0145,2026-05-29,checking,Delta Airlines,travel,-125.45
+TXN00886,CUST0145,2026-06-02,savings,Home Depot,home,-230.49
+TXN00884,CUST0145,2026-06-21,checking,Delta Airlines,travel,-92.93
+TXN00883,CUST0145,2026-06-26,checking,Chipotle,dining,-19.73
+TXN00887,CUST0146,2026-06-04,checking,Direct Deposit - Payroll,income,1806.33
+TXN00891,CUST0146,2026-06-09,checking,Duke Energy,utilities,-90.29
+TXN00889,CUST0146,2026-06-17,savings,Duke Energy,utilities,-88.22
+TXN00888,CUST0146,2026-06-24,checking,Home Depot,home,-113.45
+TXN00890,CUST0146,2026-06-24,checking,Kroger,groceries,-196.99
+TXN00894,CUST0147,2026-05-31,checking,CVS Pharmacy,health,-15.23
+TXN00893,CUST0147,2026-06-11,checking,Amazon,shopping,-166.77
+TXN00895,CUST0147,2026-06-14,checking,Shell Gas,gas,-18.08
+TXN00898,CUST0147,2026-06-19,savings,Direct Deposit - Payroll,income,1927.27
+TXN00897,CUST0147,2026-06-22,checking,Shell Gas,gas,-70.01
+TXN00892,CUST0147,2026-06-25,checking,Uber,transport,-50.73
+TXN00896,CUST0147,2026-06-27,checking,CVS Pharmacy,health,-147.58
+TXN00901,CUST0148,2026-06-06,checking,Direct Deposit - Payroll,income,1770.56
+TXN00899,CUST0148,2026-06-07,checking,Walmart,shopping,-65.9
+TXN00903,CUST0148,2026-06-07,checking,Direct Deposit - Payroll,income,1968.36
+TXN00900,CUST0148,2026-06-15,checking,Amazon,shopping,-31.42
+TXN00902,CUST0148,2026-06-18,checking,Direct Deposit - Payroll,income,1647.96
+TXN00906,CUST0149,2026-05-30,checking,Netflix,entertainment,-120.26
+TXN00907,CUST0149,2026-05-30,checking,Shell Gas,gas,-140.6
+TXN00905,CUST0149,2026-06-07,checking,Kroger,groceries,-96.84
+TXN00908,CUST0149,2026-06-19,checking,Shell Gas,gas,-123.3
+TXN00909,CUST0149,2026-06-23,checking,Direct Deposit - Payroll,income,2080.53
+TXN00904,CUST0149,2026-06-30,savings,CVS Pharmacy,health,-68.68
+TXN00912,CUST0150,2026-05-22,checking,Netflix,entertainment,-57.1
+TXN00911,CUST0150,2026-05-29,checking,Direct Deposit - Payroll,income,1314.58
+TXN00913,CUST0150,2026-06-06,savings,Duke Energy,utilities,-232.39
+TXN00915,CUST0150,2026-06-10,checking,Netflix,entertainment,-129.58
+TXN00910,CUST0150,2026-06-15,checking,Shell Gas,gas,-113.2
+TXN00914,CUST0150,2026-06-27,checking,Shell Gas,gas,-110.24
+TXN00918,CUST0151,2026-05-19,checking,CVS Pharmacy,health,-54.51
+TXN00921,CUST0151,2026-05-20,checking,CVS Pharmacy,health,-226.06
+TXN00920,CUST0151,2026-05-21,checking,Target,shopping,-129.35
+TXN00919,CUST0151,2026-05-31,checking,AT&T,utilities,-33.45
+TXN00916,CUST0151,2026-06-01,checking,Shell Gas,gas,-69.26
+TXN00917,CUST0151,2026-06-02,checking,AT&T,utilities,-22.31
+TXN00930,CUST0152,2026-05-18,savings,Netflix,entertainment,-102.89
+TXN00925,CUST0152,2026-05-19,checking,Home Depot,home,-214.95
+TXN00923,CUST0152,2026-05-20,checking,AT&T,utilities,-152.81
+TXN00929,CUST0152,2026-05-24,checking,Duke Energy,utilities,-188.24
+TXN00927,CUST0152,2026-06-02,checking,Uber,transport,-182.05
+TXN00924,CUST0152,2026-06-10,checking,Walmart,shopping,-201.69
+TXN00922,CUST0152,2026-06-16,checking,CVS Pharmacy,health,-136.13
+TXN00931,CUST0152,2026-06-16,checking,Amazon,shopping,-237.31
+TXN00928,CUST0152,2026-06-22,savings,Netflix,entertainment,-74.15
+TXN00926,CUST0152,2026-06-29,checking,Direct Deposit - Payroll,income,2599.53
+TXN00932,CUST0153,2026-05-30,checking,Target,shopping,-213.9
+TXN00934,CUST0153,2026-06-01,checking,Netflix,entertainment,-53.67
+TXN00935,CUST0153,2026-06-10,checking,Starbucks,dining,-240.46
+TXN00933,CUST0153,2026-06-17,savings,CVS Pharmacy,health,-156.82
+TXN00936,CUST0154,2026-05-16,checking,Chipotle,dining,-105.61
+TXN00938,CUST0154,2026-06-14,checking,Duke Energy,utilities,-42.08
+TXN00937,CUST0154,2026-06-15,checking,Kroger,groceries,-193.43
+TXN00944,CUST0155,2026-05-19,checking,AT&T,utilities,-222.54
+TXN00943,CUST0155,2026-06-02,checking,Netflix,entertainment,-23.74
+TXN00940,CUST0155,2026-06-04,checking,Starbucks,dining,-33.65
+TXN00948,CUST0155,2026-06-06,checking,Duke Energy,utilities,-22.04
+TXN00945,CUST0155,2026-06-13,savings,Netflix,entertainment,-239.41
+TXN00947,CUST0155,2026-06-19,savings,Kroger,groceries,-21.35
+TXN00942,CUST0155,2026-06-20,checking,Uber,transport,-189.31
+TXN00939,CUST0155,2026-06-22,checking,Target,shopping,-179.09
+TXN00941,CUST0155,2026-06-22,savings,Amazon,shopping,-249.63
+TXN00946,CUST0155,2026-06-24,checking,Home Depot,home,-16.69
+TXN00949,CUST0156,2026-05-24,checking,AT&T,utilities,-177.6
+TXN00950,CUST0156,2026-05-28,checking,Shell Gas,gas,-126.9
+TXN00951,CUST0156,2026-05-28,checking,Uber,transport,-94.91
+TXN00954,CUST0156,2026-05-28,checking,CVS Pharmacy,health,-94.1
+TXN00952,CUST0156,2026-06-14,checking,Delta Airlines,travel,-22.7
+TXN00953,CUST0156,2026-06-14,checking,Uber,transport,-215.42
+TXN00955,CUST0156,2026-06-27,checking,Starbucks,dining,-22.06
+TXN00957,CUST0157,2026-05-16,checking,Target,shopping,-170.77
+TXN00961,CUST0157,2026-05-16,checking,Direct Deposit - Payroll,income,1941.61
+TXN00965,CUST0157,2026-05-24,checking,Uber,transport,-23.14
+TXN00964,CUST0157,2026-06-05,checking,Shell Gas,gas,-37.46
+TXN00962,CUST0157,2026-06-07,checking,Walmart,shopping,-125.61
+TXN00958,CUST0157,2026-06-10,savings,CVS Pharmacy,health,-118.51
+TXN00963,CUST0157,2026-06-13,savings,Amazon,shopping,-161.39
+TXN00960,CUST0157,2026-06-22,checking,Netflix,entertainment,-102.66
+TXN00959,CUST0157,2026-06-25,savings,AT&T,utilities,-244.64
+TXN00956,CUST0157,2026-06-30,checking,Netflix,entertainment,-200.7
+TXN00966,CUST0158,2026-05-16,checking,Walmart,shopping,-91.5
+TXN00973,CUST0158,2026-05-19,checking,Duke Energy,utilities,-115.91
+TXN00967,CUST0158,2026-05-31,checking,AT&T,utilities,-47.15
+TXN00971,CUST0158,2026-06-07,checking,Home Depot,home,-193.16
+TXN00969,CUST0158,2026-06-12,checking,Chipotle,dining,-240.77
+TXN00975,CUST0158,2026-06-13,checking,Uber,transport,-182.5
+TXN00970,CUST0158,2026-06-15,checking,Duke Energy,utilities,-54.19
+TXN00968,CUST0158,2026-06-20,checking,Home Depot,home,-170.29
+TXN00972,CUST0158,2026-06-20,savings,AT&T,utilities,-163.59
+TXN00974,CUST0158,2026-06-30,checking,Direct Deposit - Payroll,income,1291.26
+TXN00978,CUST0159,2026-06-15,savings,Starbucks,dining,-197.18
+TXN00977,CUST0159,2026-06-19,checking,Home Depot,home,-46.7
+TXN00976,CUST0159,2026-06-25,checking,Shell Gas,gas,-209.92
+TXN00980,CUST0160,2026-06-08,checking,Amazon,shopping,-22.04
+TXN00981,CUST0160,2026-06-14,checking,Walmart,shopping,-187.89
+TXN00979,CUST0160,2026-06-18,checking,Kroger,groceries,-233.91
+TXN00989,CUST0161,2026-05-16,checking,Shell Gas,gas,-51.06
+TXN00986,CUST0161,2026-05-17,checking,AT&T,utilities,-41.86
+TXN00985,CUST0161,2026-05-26,checking,Delta Airlines,travel,-50.34
+TXN00984,CUST0161,2026-06-09,checking,Amazon,shopping,-183.28
+TXN00982,CUST0161,2026-06-14,savings,Kroger,groceries,-68.94
+TXN00983,CUST0161,2026-06-14,checking,Shell Gas,gas,-16.87
+TXN00987,CUST0161,2026-06-16,checking,Chipotle,dining,-180.38
+TXN00988,CUST0161,2026-06-24,checking,Starbucks,dining,-201.29
+TXN00999,CUST0162,2026-05-16,checking,Netflix,entertainment,-87.37
+TXN00990,CUST0162,2026-05-22,checking,AT&T,utilities,-204.4
+TXN00995,CUST0162,2026-05-29,checking,Kroger,groceries,-9.78
+TXN00996,CUST0162,2026-06-01,checking,Starbucks,dining,-180.6
+TXN00991,CUST0162,2026-06-03,checking,Shell Gas,gas,-120.09
+TXN00997,CUST0162,2026-06-11,checking,Uber,transport,-49.25
+TXN00993,CUST0162,2026-06-14,checking,Shell Gas,gas,-116.5
+TXN00992,CUST0162,2026-06-17,checking,Amazon,shopping,-233.66
+TXN00994,CUST0162,2026-06-27,checking,Delta Airlines,travel,-135.16
+TXN00998,CUST0162,2026-06-27,savings,CVS Pharmacy,health,-36.28
+TXN01002,CUST0163,2026-05-21,checking,Walmart,shopping,-41.21
+TXN01006,CUST0163,2026-06-03,checking,Shell Gas,gas,-157.44
+TXN01004,CUST0163,2026-06-07,checking,Shell Gas,gas,-180.72
+TXN01003,CUST0163,2026-06-10,checking,Direct Deposit - Payroll,income,1260.45
+TXN01005,CUST0163,2026-06-26,checking,CVS Pharmacy,health,-134.2
+TXN01000,CUST0163,2026-06-27,checking,Chipotle,dining,-181.41
+TXN01001,CUST0163,2026-06-27,checking,AT&T,utilities,-25.93
+TXN01008,CUST0164,2026-05-16,checking,Target,shopping,-121.32
+TXN01014,CUST0164,2026-05-19,checking,Starbucks,dining,-213.7
+TXN01011,CUST0164,2026-05-21,checking,Kroger,groceries,-116.11
+TXN01010,CUST0164,2026-05-22,savings,AT&T,utilities,-233.74
+TXN01012,CUST0164,2026-05-26,checking,Direct Deposit - Payroll,income,1274.75
+TXN01009,CUST0164,2026-06-02,checking,Chipotle,dining,-95.43
+TXN01007,CUST0164,2026-06-16,checking,Shell Gas,gas,-168.46
+TXN01015,CUST0164,2026-06-21,checking,AT&T,utilities,-131.87
+TXN01016,CUST0164,2026-06-27,checking,Chipotle,dining,-180.1
+TXN01013,CUST0164,2026-06-28,checking,Amazon,shopping,-172.28
+TXN01018,CUST0165,2026-05-27,checking,Shell Gas,gas,-81.74
+TXN01017,CUST0165,2026-05-28,savings,Starbucks,dining,-168.9
+TXN01019,CUST0165,2026-06-19,checking,Uber,transport,-45.6
+TXN01027,CUST0166,2026-05-17,checking,Kroger,groceries,-119.43
+TXN01021,CUST0166,2026-05-26,savings,Shell Gas,gas,-116.69
+TXN01022,CUST0166,2026-06-06,checking,Shell Gas,gas,-235.97
+TXN01020,CUST0166,2026-06-07,checking,AT&T,utilities,-178.14
+TXN01028,CUST0166,2026-06-10,savings,Amazon,shopping,-155.38
+TXN01023,CUST0166,2026-06-12,checking,Target,shopping,-49.5
+TXN01026,CUST0166,2026-06-15,checking,Duke Energy,utilities,-87.36
+TXN01024,CUST0166,2026-06-22,checking,AT&T,utilities,-180.15
+TXN01025,CUST0166,2026-06-24,checking,Home Depot,home,-239.73
+TXN01032,CUST0167,2026-06-10,checking,Uber,transport,-13.23
+TXN01033,CUST0167,2026-06-13,checking,Netflix,entertainment,-205.45
+TXN01031,CUST0167,2026-06-14,checking,Uber,transport,-197.71
+TXN01030,CUST0167,2026-06-16,checking,CVS Pharmacy,health,-206.13
+TXN01029,CUST0167,2026-06-18,checking,Home Depot,home,-88.03
+TXN01035,CUST0168,2026-05-18,checking,Starbucks,dining,-59.88
+TXN01041,CUST0168,2026-05-19,checking,Amazon,shopping,-179.46
+TXN01037,CUST0168,2026-05-20,savings,AT&T,utilities,-204.97
+TXN01036,CUST0168,2026-05-25,checking,Chipotle,dining,-193.35
+TXN01039,CUST0168,2026-05-29,checking,AT&T,utilities,-79.47
+TXN01034,CUST0168,2026-06-06,checking,Starbucks,dining,-90.81
+TXN01040,CUST0168,2026-06-11,checking,CVS Pharmacy,health,-111.5
+TXN01038,CUST0168,2026-06-20,checking,AT&T,utilities,-222.82
+TXN01043,CUST0169,2026-05-18,checking,Direct Deposit - Payroll,income,2914.35
+TXN01044,CUST0169,2026-05-26,checking,Delta Airlines,travel,-15.81
+TXN01042,CUST0169,2026-06-10,savings,Walmart,shopping,-46.47
+TXN01049,CUST0170,2026-05-21,checking,Home Depot,home,-215.54
+TXN01051,CUST0170,2026-05-25,checking,Starbucks,dining,-222.21
+TXN01054,CUST0170,2026-05-28,checking,Uber,transport,-207.99
+TXN01048,CUST0170,2026-05-30,checking,Netflix,entertainment,-155.3
+TXN01050,CUST0170,2026-06-06,checking,Chipotle,dining,-121.26
+TXN01052,CUST0170,2026-06-11,checking,Target,shopping,-88.86
+TXN01045,CUST0170,2026-06-17,checking,Walmart,shopping,-117.6
+TXN01046,CUST0170,2026-06-24,checking,Home Depot,home,-65.34
+TXN01053,CUST0170,2026-06-24,savings,Home Depot,home,-145.02
+TXN01047,CUST0170,2026-06-29,checking,Shell Gas,gas,-10.39
+TXN01055,CUST0171,2026-05-19,checking,Target,shopping,-6.9
+TXN01058,CUST0171,2026-05-24,savings,CVS Pharmacy,health,-12.58
+TXN01056,CUST0171,2026-06-07,checking,Netflix,entertainment,-93.14
+TXN01057,CUST0171,2026-06-23,savings,Direct Deposit - Payroll,income,2591.81
+TXN01064,CUST0172,2026-05-29,checking,Netflix,entertainment,-247.94
+TXN01065,CUST0172,2026-05-29,savings,Home Depot,home,-124.85
+TXN01062,CUST0172,2026-06-03,checking,Netflix,entertainment,-235.77
+TXN01063,CUST0172,2026-06-04,checking,Amazon,shopping,-178.62
+TXN01066,CUST0172,2026-06-06,checking,Kroger,groceries,-39.24
+TXN01060,CUST0172,2026-06-08,checking,Amazon,shopping,-205.82
+TXN01067,CUST0172,2026-06-19,checking,Duke Energy,utilities,-199.62
+TXN01059,CUST0172,2026-06-25,checking,Kroger,groceries,-109.61
+TXN01061,CUST0172,2026-06-27,checking,Shell Gas,gas,-187.22
+TXN01070,CUST0173,2026-05-16,checking,Netflix,entertainment,-225.73
+TXN01068,CUST0173,2026-06-23,checking,Direct Deposit - Payroll,income,2957.91
+TXN01069,CUST0173,2026-06-27,checking,Duke Energy,utilities,-17.14
+TXN01074,CUST0174,2026-05-21,checking,Starbucks,dining,-57.24
+TXN01073,CUST0174,2026-05-23,checking,Chipotle,dining,-173.14
+TXN01075,CUST0174,2026-06-09,checking,Target,shopping,-194.36
+TXN01076,CUST0174,2026-06-15,checking,Direct Deposit - Payroll,income,2696.71
+TXN01071,CUST0174,2026-06-17,checking,Delta Airlines,travel,-41.99
+TXN01072,CUST0174,2026-06-29,checking,Amazon,shopping,-111.81
+TXN01079,CUST0175,2026-05-16,checking,Home Depot,home,-188.31
+TXN01077,CUST0175,2026-05-23,checking,Netflix,entertainment,-47.16
+TXN01078,CUST0175,2026-05-24,savings,Amazon,shopping,-53.69
+TXN01082,CUST0175,2026-05-26,savings,Target,shopping,-217.66
+TXN01080,CUST0175,2026-06-03,checking,Uber,transport,-71.04
+TXN01083,CUST0175,2026-06-20,checking,CVS Pharmacy,health,-82.7
+TXN01081,CUST0175,2026-06-30,checking,Direct Deposit - Payroll,income,2176.8
+TXN01086,CUST0176,2026-05-21,checking,Uber,transport,-80.27
+TXN01087,CUST0176,2026-05-24,checking,Netflix,entertainment,-39.07
+TXN01089,CUST0176,2026-05-24,checking,Target,shopping,-193.1
+TXN01088,CUST0176,2026-06-04,checking,Walmart,shopping,-76.85
+TXN01085,CUST0176,2026-06-08,checking,Netflix,entertainment,-217.84
+TXN01084,CUST0176,2026-06-15,checking,Delta Airlines,travel,-192.58
+TXN01097,CUST0177,2026-05-18,checking,Walmart,shopping,-179.22
+TXN01094,CUST0177,2026-05-20,checking,Walmart,shopping,-210.71
+TXN01095,CUST0177,2026-05-26,checking,Amazon,shopping,-209.31
+TXN01096,CUST0177,2026-05-31,checking,Kroger,groceries,-196.97
+TXN01093,CUST0177,2026-06-09,checking,Chipotle,dining,-184.58
+TXN01090,CUST0177,2026-06-18,savings,Target,shopping,-119.97
+TXN01091,CUST0177,2026-06-20,checking,Target,shopping,-39.58
+TXN01098,CUST0177,2026-06-20,savings,Chipotle,dining,-156.46
+TXN01092,CUST0177,2026-06-26,checking,Netflix,entertainment,-176.53
+TXN01099,CUST0177,2026-06-30,checking,Delta Airlines,travel,-187.66
+TXN01104,CUST0178,2026-05-30,checking,Uber,transport,-121.99
+TXN01100,CUST0178,2026-06-10,checking,CVS Pharmacy,health,-213.49
+TXN01102,CUST0178,2026-06-12,checking,Delta Airlines,travel,-164.12
+TXN01101,CUST0178,2026-06-20,checking,Uber,transport,-58.04
+TXN01103,CUST0178,2026-06-29,checking,Shell Gas,gas,-226.49
+TXN01109,CUST0179,2026-05-21,checking,AT&T,utilities,-93.26
+TXN01107,CUST0179,2026-05-23,checking,Shell Gas,gas,-99.23
+TXN01105,CUST0179,2026-05-26,checking,Walmart,shopping,-8.88
+TXN01106,CUST0179,2026-05-31,checking,Delta Airlines,travel,-83.97
+TXN01111,CUST0179,2026-06-06,checking,Duke Energy,utilities,-235.07
+TXN01108,CUST0179,2026-06-07,checking,Uber,transport,-68.11
+TXN01110,CUST0179,2026-06-12,checking,Delta Airlines,travel,-223.25
+TXN01113,CUST0180,2026-06-03,checking,Amazon,shopping,-57.94
+TXN01112,CUST0180,2026-06-22,checking,Shell Gas,gas,-18.63
+TXN01114,CUST0180,2026-06-24,checking,Starbucks,dining,-242.92
+TXN01117,CUST0181,2026-05-21,checking,Duke Energy,utilities,-107.87
+TXN01116,CUST0181,2026-05-30,checking,Chipotle,dining,-13.81
+TXN01115,CUST0181,2026-06-21,checking,Delta Airlines,travel,-243.49
+TXN01118,CUST0181,2026-06-22,checking,Duke Energy,utilities,-48.15
+TXN01119,CUST0181,2026-06-23,checking,Starbucks,dining,-17.76
+TXN01121,CUST0182,2026-06-18,checking,Shell Gas,gas,-30.35
+TXN01122,CUST0182,2026-06-18,checking,Uber,transport,-235.53
+TXN01120,CUST0182,2026-06-20,checking,Kroger,groceries,-174.83
+TXN01126,CUST0183,2026-05-20,checking,Direct Deposit - Payroll,income,1902.03
+TXN01129,CUST0183,2026-05-23,checking,Kroger,groceries,-220.82
+TXN01128,CUST0183,2026-05-25,checking,AT&T,utilities,-198.57
+TXN01123,CUST0183,2026-06-05,savings,Shell Gas,gas,-110.88
+TXN01125,CUST0183,2026-06-19,checking,CVS Pharmacy,health,-47.07
+TXN01130,CUST0183,2026-06-21,checking,CVS Pharmacy,health,-101.4
+TXN01127,CUST0183,2026-06-28,checking,Kroger,groceries,-157.06
+TXN01124,CUST0183,2026-06-29,checking,Chipotle,dining,-61.23
+TXN01133,CUST0184,2026-05-17,checking,Kroger,groceries,-231.01
+TXN01132,CUST0184,2026-05-20,checking,Amazon,shopping,-42.53
+TXN01131,CUST0184,2026-05-30,checking,Direct Deposit - Payroll,income,2233.08
+TXN01134,CUST0185,2026-05-19,checking,Duke Energy,utilities,-105.87
+TXN01136,CUST0185,2026-05-22,savings,Walmart,shopping,-239.05
+TXN01135,CUST0185,2026-06-04,checking,Netflix,entertainment,-183.18
+TXN01140,CUST0186,2026-05-25,checking,Starbucks,dining,-86.86
+TXN01139,CUST0186,2026-05-26,checking,Uber,transport,-82.3
+TXN01137,CUST0186,2026-06-17,savings,Walmart,shopping,-50.95
+TXN01141,CUST0186,2026-06-25,checking,Duke Energy,utilities,-238.21
+TXN01138,CUST0186,2026-06-30,checking,AT&T,utilities,-155.19
+TXN01151,CUST0187,2026-05-28,checking,Direct Deposit - Payroll,income,2201.64
+TXN01142,CUST0187,2026-06-03,checking,Direct Deposit - Payroll,income,1292.86
+TXN01146,CUST0187,2026-06-03,savings,Starbucks,dining,-153.11
+TXN01145,CUST0187,2026-06-06,checking,Shell Gas,gas,-36.87
+TXN01143,CUST0187,2026-06-12,checking,AT&T,utilities,-105.93
+TXN01150,CUST0187,2026-06-17,checking,CVS Pharmacy,health,-196.39
+TXN01147,CUST0187,2026-06-25,savings,Target,shopping,-203.14
+TXN01149,CUST0187,2026-06-26,checking,Target,shopping,-77.63
+TXN01148,CUST0187,2026-06-28,checking,Home Depot,home,-94.61
+TXN01144,CUST0187,2026-06-30,checking,Uber,transport,-177.43
+TXN01153,CUST0188,2026-05-18,checking,Target,shopping,-82.15
+TXN01156,CUST0188,2026-05-21,checking,Home Depot,home,-36.26
+TXN01155,CUST0188,2026-05-27,checking,AT&T,utilities,-17.17
+TXN01157,CUST0188,2026-05-29,checking,Duke Energy,utilities,-65.28
+TXN01152,CUST0188,2026-06-13,checking,AT&T,utilities,-202.89
+TXN01159,CUST0188,2026-06-17,checking,Duke Energy,utilities,-221.33
+TXN01154,CUST0188,2026-06-21,checking,Home Depot,home,-33.18
+TXN01158,CUST0188,2026-06-25,checking,Kroger,groceries,-10.29
+TXN01160,CUST0188,2026-06-25,checking,Target,shopping,-219.51
+TXN01167,CUST0189,2026-06-02,checking,CVS Pharmacy,health,-157.66
+TXN01164,CUST0189,2026-06-16,savings,Direct Deposit - Payroll,income,2147.78
+TXN01162,CUST0189,2026-06-19,checking,CVS Pharmacy,health,-33.54
+TXN01163,CUST0189,2026-06-20,checking,Duke Energy,utilities,-86.74
+TXN01165,CUST0189,2026-06-20,checking,Starbucks,dining,-18.99
+TXN01161,CUST0189,2026-06-22,checking,Walmart,shopping,-153.75
+TXN01166,CUST0189,2026-06-26,savings,Direct Deposit - Payroll,income,1803.88
+TXN01169,CUST0190,2026-05-20,checking,CVS Pharmacy,health,-98.35
+TXN01168,CUST0190,2026-06-10,checking,Shell Gas,gas,-119.53
+TXN01173,CUST0190,2026-06-13,checking,Direct Deposit - Payroll,income,2186.32
+TXN01170,CUST0190,2026-06-18,checking,Target,shopping,-134.39
+TXN01172,CUST0190,2026-06-22,checking,Delta Airlines,travel,-222.8
+TXN01171,CUST0190,2026-06-23,checking,Direct Deposit - Payroll,income,2241.32
+TXN01180,CUST0191,2026-05-18,checking,Target,shopping,-142.5
+TXN01181,CUST0191,2026-05-21,checking,Home Depot,home,-237.55
+TXN01174,CUST0191,2026-05-24,checking,Shell Gas,gas,-191.42
+TXN01177,CUST0191,2026-06-06,checking,Target,shopping,-241.84
+TXN01175,CUST0191,2026-06-07,checking,Walmart,shopping,-221.98
+TXN01179,CUST0191,2026-06-12,checking,Walmart,shopping,-34.5
+TXN01176,CUST0191,2026-06-22,savings,Chipotle,dining,-245.49
+TXN01178,CUST0191,2026-06-29,checking,Uber,transport,-81.21
+TXN01183,CUST0192,2026-06-12,checking,Walmart,shopping,-50.84
+TXN01186,CUST0192,2026-06-15,checking,Delta Airlines,travel,-33.07
+TXN01185,CUST0192,2026-06-17,checking,Chipotle,dining,-140.08
+TXN01182,CUST0192,2026-06-19,savings,Delta Airlines,travel,-167.57
+TXN01187,CUST0192,2026-06-24,checking,CVS Pharmacy,health,-74.53
+TXN01184,CUST0192,2026-06-26,checking,Home Depot,home,-243.33
+TXN01191,CUST0193,2026-05-27,checking,Chipotle,dining,-178.69
+TXN01190,CUST0193,2026-05-29,savings,Walmart,shopping,-174.51
+TXN01188,CUST0193,2026-06-13,checking,CVS Pharmacy,health,-168.22
+TXN01189,CUST0193,2026-06-13,savings,Kroger,groceries,-25.54
+TXN01192,CUST0193,2026-06-19,checking,Duke Energy,utilities,-144.98
+TXN01193,CUST0193,2026-06-23,checking,Direct Deposit - Payroll,income,1403.31
+TXN01195,CUST0194,2026-05-17,savings,CVS Pharmacy,health,-103.65
+TXN01199,CUST0194,2026-05-22,savings,Kroger,groceries,-248.42
+TXN01197,CUST0194,2026-05-29,checking,Shell Gas,gas,-223.53
+TXN01196,CUST0194,2026-06-03,checking,Kroger,groceries,-208.28
+TXN01200,CUST0194,2026-06-07,checking,Delta Airlines,travel,-43.64
+TXN01194,CUST0194,2026-06-10,savings,Uber,transport,-130.83
+TXN01198,CUST0194,2026-06-29,checking,Amazon,shopping,-218.22
+TXN01201,CUST0195,2026-05-27,savings,Walmart,shopping,-95.04
+TXN01204,CUST0195,2026-05-30,checking,Delta Airlines,travel,-27.63
+TXN01203,CUST0195,2026-06-11,checking,Uber,transport,-34.7
+TXN01202,CUST0195,2026-06-23,checking,Amazon,shopping,-41.31
+TXN01205,CUST0195,2026-06-27,checking,Chipotle,dining,-188.51
+TXN01209,CUST0196,2026-05-19,checking,Target,shopping,-58.69
+TXN01208,CUST0196,2026-06-09,checking,Duke Energy,utilities,-99.33
+TXN01210,CUST0196,2026-06-15,checking,Duke Energy,utilities,-247.0
+TXN01211,CUST0196,2026-06-18,checking,Direct Deposit - Payroll,income,3050.25
+TXN01207,CUST0196,2026-06-25,savings,Netflix,entertainment,-91.92
+TXN01206,CUST0196,2026-06-30,checking,Chipotle,dining,-231.73
+TXN01215,CUST0197,2026-06-10,checking,CVS Pharmacy,health,-79.11
+TXN01213,CUST0197,2026-06-11,checking,Walmart,shopping,-108.2
+TXN01214,CUST0197,2026-06-15,checking,Shell Gas,gas,-234.41
+TXN01212,CUST0197,2026-06-25,checking,Starbucks,dining,-85.58
+TXN01217,CUST0198,2026-05-20,checking,Kroger,groceries,-247.5
+TXN01216,CUST0198,2026-05-24,checking,Home Depot,home,-232.38
+TXN01219,CUST0198,2026-06-24,checking,Starbucks,dining,-86.49
+TXN01218,CUST0198,2026-06-27,checking,Home Depot,home,-157.8
+TXN01222,CUST0199,2026-05-19,checking,Direct Deposit - Payroll,income,2603.26
+TXN01223,CUST0199,2026-05-27,checking,Chipotle,dining,-104.36
+TXN01221,CUST0199,2026-06-15,checking,Chipotle,dining,-115.65
+TXN01224,CUST0199,2026-06-15,checking,CVS Pharmacy,health,-93.62
+TXN01220,CUST0199,2026-06-17,checking,Delta Airlines,travel,-60.32
+TXN01225,CUST0199,2026-06-28,checking,Starbucks,dining,-85.22
+TXN01228,CUST0200,2026-05-18,checking,Direct Deposit - Payroll,income,1964.87
+TXN01230,CUST0200,2026-05-24,checking,Uber,transport,-75.82
+TXN01229,CUST0200,2026-05-30,checking,Target,shopping,-28.4
+TXN01227,CUST0200,2026-06-14,checking,Shell Gas,gas,-137.58
+TXN01226,CUST0200,2026-06-21,checking,Chipotle,dining,-109.95
+TXN01234,CUST0200,2026-06-23,checking,AT&T,utilities,-201.02
+TXN01231,CUST0200,2026-06-26,savings,Duke Energy,utilities,-35.22
+TXN01233,CUST0200,2026-06-28,checking,Home Depot,home,-246.31
+TXN01232,CUST0200,2026-06-29,checking,Target,shopping,-166.36
+TXN01238,CUST0201,2026-05-27,checking,Target,shopping,-36.48
+TXN01237,CUST0201,2026-06-02,checking,Home Depot,home,-43.8
+TXN01236,CUST0201,2026-06-04,checking,Walmart,shopping,-208.15
+TXN01242,CUST0201,2026-06-11,checking,Amazon,shopping,-90.99
+TXN01235,CUST0201,2026-06-13,checking,Netflix,entertainment,-147.42
+TXN01239,CUST0201,2026-06-21,checking,Home Depot,home,-61.86
+TXN01240,CUST0201,2026-06-23,savings,CVS Pharmacy,health,-180.34
+TXN01241,CUST0201,2026-06-30,checking,AT&T,utilities,-169.19
+TXN01250,CUST0202,2026-05-16,checking,Starbucks,dining,-193.43
+TXN01243,CUST0202,2026-05-24,savings,Duke Energy,utilities,-197.37
+TXN01244,CUST0202,2026-05-25,savings,Target,shopping,-162.45
+TXN01249,CUST0202,2026-05-27,checking,Chipotle,dining,-49.62
+TXN01246,CUST0202,2026-05-29,checking,Home Depot,home,-95.93
+TXN01245,CUST0202,2026-05-31,checking,Delta Airlines,travel,-131.61
+TXN01248,CUST0202,2026-06-04,checking,CVS Pharmacy,health,-127.96
+TXN01247,CUST0202,2026-06-13,checking,Delta Airlines,travel,-58.75
+TXN01251,CUST0203,2026-05-16,checking,AT&T,utilities,-121.18
+TXN01255,CUST0203,2026-05-16,checking,Netflix,entertainment,-216.09
+TXN01254,CUST0203,2026-05-18,checking,Duke Energy,utilities,-82.89
+TXN01260,CUST0203,2026-05-23,checking,Walmart,shopping,-111.62
+TXN01252,CUST0203,2026-05-27,savings,Direct Deposit - Payroll,income,2285.07
+TXN01257,CUST0203,2026-06-03,checking,Home Depot,home,-207.2
+TXN01256,CUST0203,2026-06-07,checking,Starbucks,dining,-25.2
+TXN01258,CUST0203,2026-06-07,checking,CVS Pharmacy,health,-66.93
+TXN01259,CUST0203,2026-06-09,checking,Home Depot,home,-138.91
+TXN01253,CUST0203,2026-06-28,checking,Starbucks,dining,-208.18
+TXN01266,CUST0204,2026-05-16,checking,Walmart,shopping,-161.78
+TXN01267,CUST0204,2026-05-18,checking,Amazon,shopping,-18.92
+TXN01263,CUST0204,2026-05-30,checking,Target,shopping,-52.47
+TXN01261,CUST0204,2026-05-31,checking,AT&T,utilities,-87.74
+TXN01264,CUST0204,2026-06-04,checking,Kroger,groceries,-224.26
+TXN01262,CUST0204,2026-06-19,checking,Shell Gas,gas,-185.31
+TXN01265,CUST0204,2026-06-21,savings,Duke Energy,utilities,-74.99
+TXN01270,CUST0205,2026-06-02,checking,Delta Airlines,travel,-226.09
+TXN01269,CUST0205,2026-06-07,checking,Chipotle,dining,-41.48
+TXN01273,CUST0205,2026-06-09,checking,Home Depot,home,-191.27
+TXN01271,CUST0205,2026-06-14,checking,Delta Airlines,travel,-150.44
+TXN01268,CUST0205,2026-06-27,checking,Walmart,shopping,-46.57
+TXN01272,CUST0205,2026-06-30,checking,Kroger,groceries,-49.72
+TXN01278,CUST0206,2026-05-20,checking,Shell Gas,gas,-84.03
+TXN01277,CUST0206,2026-06-10,checking,Netflix,entertainment,-193.98
+TXN01276,CUST0206,2026-06-15,checking,Starbucks,dining,-178.2
+TXN01275,CUST0206,2026-06-16,checking,Kroger,groceries,-144.89
+TXN01274,CUST0206,2026-06-17,checking,CVS Pharmacy,health,-180.27
+TXN01279,CUST0207,2026-06-02,checking,Delta Airlines,travel,-62.39
+TXN01281,CUST0207,2026-06-05,checking,Direct Deposit - Payroll,income,1863.86
+TXN01282,CUST0207,2026-06-09,checking,Netflix,entertainment,-107.91
+TXN01280,CUST0207,2026-06-30,savings,Starbucks,dining,-229.13
+TXN01284,CUST0208,2026-05-16,checking,AT&T,utilities,-119.47
+TXN01285,CUST0208,2026-05-19,checking,Target,shopping,-7.35
+TXN01283,CUST0208,2026-05-26,checking,Chipotle,dining,-131.84
+TXN01287,CUST0208,2026-06-06,checking,AT&T,utilities,-119.5
+TXN01288,CUST0208,2026-06-14,checking,Amazon,shopping,-29.73
+TXN01286,CUST0208,2026-06-19,checking,Chipotle,dining,-151.36
+TXN01294,CUST0209,2026-05-27,checking,Delta Airlines,travel,-95.47
+TXN01298,CUST0209,2026-05-27,checking,Duke Energy,utilities,-165.5
+TXN01292,CUST0209,2026-05-28,checking,Target,shopping,-176.69
+TXN01291,CUST0209,2026-05-29,checking,Amazon,shopping,-110.42
+TXN01293,CUST0209,2026-05-29,savings,Walmart,shopping,-45.63
+TXN01297,CUST0209,2026-06-07,checking,AT&T,utilities,-238.98
+TXN01295,CUST0209,2026-06-09,checking,Netflix,entertainment,-99.33
+TXN01296,CUST0209,2026-06-12,checking,Uber,transport,-142.58
+TXN01289,CUST0209,2026-06-17,checking,Direct Deposit - Payroll,income,2123.71
+TXN01290,CUST0209,2026-06-25,checking,Home Depot,home,-27.0
+TXN01301,CUST0210,2026-05-19,checking,Netflix,entertainment,-43.85
+TXN01306,CUST0210,2026-05-27,checking,CVS Pharmacy,health,-14.38
+TXN01303,CUST0210,2026-06-01,checking,Starbucks,dining,-198.33
+TXN01302,CUST0210,2026-06-05,checking,Netflix,entertainment,-113.8
+TXN01300,CUST0210,2026-06-07,checking,Amazon,shopping,-239.4
+TXN01299,CUST0210,2026-06-09,checking,Amazon,shopping,-211.87
+TXN01305,CUST0210,2026-06-10,checking,Kroger,groceries,-222.31
+TXN01304,CUST0210,2026-06-27,checking,Amazon,shopping,-96.24
+TXN01312,CUST0211,2026-05-18,checking,Shell Gas,gas,-79.93
+TXN01307,CUST0211,2026-05-20,checking,AT&T,utilities,-46.56
+TXN01308,CUST0211,2026-05-20,checking,Amazon,shopping,-67.64
+TXN01311,CUST0211,2026-05-22,checking,Delta Airlines,travel,-122.91
+TXN01313,CUST0211,2026-05-25,checking,Netflix,entertainment,-155.71
+TXN01310,CUST0211,2026-05-26,checking,CVS Pharmacy,health,-81.24
+TXN01315,CUST0211,2026-05-30,checking,Uber,transport,-213.78
+TXN01314,CUST0211,2026-06-10,checking,Duke Energy,utilities,-112.86
+TXN01309,CUST0211,2026-06-20,checking,Delta Airlines,travel,-154.81
+TXN01316,CUST0211,2026-06-27,checking,Target,shopping,-44.38
+TXN01317,CUST0212,2026-05-17,checking,Shell Gas,gas,-12.17
+TXN01320,CUST0212,2026-06-25,checking,Kroger,groceries,-60.52
+TXN01318,CUST0212,2026-06-26,checking,Delta Airlines,travel,-69.82
+TXN01319,CUST0212,2026-06-29,savings,Amazon,shopping,-237.58
+TXN01324,CUST0213,2026-05-17,checking,Uber,transport,-16.45
+TXN01326,CUST0213,2026-05-23,checking,Duke Energy,utilities,-240.56
+TXN01329,CUST0213,2026-05-31,savings,Shell Gas,gas,-166.67
+TXN01330,CUST0213,2026-06-06,checking,Uber,transport,-221.31
+TXN01321,CUST0213,2026-06-10,checking,Delta Airlines,travel,-48.89
+TXN01328,CUST0213,2026-06-11,checking,AT&T,utilities,-74.43
+TXN01322,CUST0213,2026-06-22,checking,Direct Deposit - Payroll,income,2406.55
+TXN01325,CUST0213,2026-06-25,checking,Starbucks,dining,-77.97
+TXN01323,CUST0213,2026-06-29,checking,Walmart,shopping,-227.76
+TXN01327,CUST0213,2026-06-30,savings,AT&T,utilities,-140.05
+TXN01336,CUST0214,2026-05-16,checking,Uber,transport,-187.31
+TXN01332,CUST0214,2026-05-29,checking,Netflix,entertainment,-187.23
+TXN01337,CUST0214,2026-05-30,checking,Walmart,shopping,-43.35
+TXN01334,CUST0214,2026-06-07,checking,Netflix,entertainment,-112.19
+TXN01331,CUST0214,2026-06-18,checking,Chipotle,dining,-116.16
+TXN01340,CUST0214,2026-06-18,savings,Target,shopping,-55.57
+TXN01339,CUST0214,2026-06-19,checking,Delta Airlines,travel,-108.57
+TXN01338,CUST0214,2026-06-20,savings,Home Depot,home,-233.61
+TXN01333,CUST0214,2026-06-28,checking,Netflix,entertainment,-79.18
+TXN01335,CUST0214,2026-06-29,checking,Target,shopping,-127.31
+TXN01346,CUST0215,2026-05-17,checking,Uber,transport,-224.74
+TXN01345,CUST0215,2026-05-26,checking,Starbucks,dining,-37.91
+TXN01343,CUST0215,2026-06-10,checking,Chipotle,dining,-211.07
+TXN01344,CUST0215,2026-06-11,checking,Chipotle,dining,-218.59
+TXN01342,CUST0215,2026-06-12,checking,Starbucks,dining,-33.81
+TXN01341,CUST0215,2026-06-14,checking,Walmart,shopping,-225.6
+TXN01347,CUST0216,2026-05-18,checking,Starbucks,dining,-27.53
+TXN01348,CUST0216,2026-05-18,checking,Chipotle,dining,-111.42
+TXN01351,CUST0216,2026-06-06,checking,Walmart,shopping,-217.17
+TXN01350,CUST0216,2026-06-21,checking,Amazon,shopping,-129.35
+TXN01349,CUST0216,2026-06-24,savings,Home Depot,home,-50.52
+TXN01355,CUST0217,2026-05-20,savings,Direct Deposit - Payroll,income,2088.61
+TXN01357,CUST0217,2026-05-25,checking,CVS Pharmacy,health,-60.15
+TXN01358,CUST0217,2026-05-31,checking,Amazon,shopping,-95.43
+TXN01353,CUST0217,2026-06-02,checking,Amazon,shopping,-136.28
+TXN01356,CUST0217,2026-06-11,checking,Uber,transport,-111.09
+TXN01352,CUST0217,2026-06-18,checking,Amazon,shopping,-181.59
+TXN01354,CUST0217,2026-06-29,checking,CVS Pharmacy,health,-209.86
+TXN01359,CUST0218,2026-06-14,checking,CVS Pharmacy,health,-79.52
+TXN01361,CUST0218,2026-06-18,checking,Duke Energy,utilities,-224.81
+TXN01362,CUST0218,2026-06-25,checking,Netflix,entertainment,-66.89
+TXN01360,CUST0218,2026-06-27,checking,Delta Airlines,travel,-201.12
+TXN01368,CUST0219,2026-05-20,checking,Kroger,groceries,-99.5
+TXN01366,CUST0219,2026-05-30,checking,Walmart,shopping,-115.25
+TXN01363,CUST0219,2026-06-01,checking,Target,shopping,-4.04
+TXN01364,CUST0219,2026-06-04,checking,Netflix,entertainment,-197.97
+TXN01369,CUST0219,2026-06-04,checking,Direct Deposit - Payroll,income,1647.55
+TXN01367,CUST0219,2026-06-08,checking,AT&T,utilities,-59.47
+TXN01365,CUST0219,2026-06-23,checking,Shell Gas,gas,-216.39
+TXN01371,CUST0220,2026-05-31,checking,CVS Pharmacy,health,-193.07
+TXN01373,CUST0220,2026-06-01,checking,Netflix,entertainment,-141.69
+TXN01370,CUST0220,2026-06-02,savings,Uber,transport,-129.98
+TXN01372,CUST0220,2026-06-04,checking,Starbucks,dining,-103.95
+TXN01374,CUST0221,2026-05-18,checking,Delta Airlines,travel,-33.13
+TXN01379,CUST0221,2026-05-19,checking,Amazon,shopping,-165.56
+TXN01377,CUST0221,2026-06-11,checking,Duke Energy,utilities,-205.19
+TXN01378,CUST0221,2026-06-17,checking,Chipotle,dining,-183.17
+TXN01376,CUST0221,2026-06-20,checking,Kroger,groceries,-124.11
+TXN01375,CUST0221,2026-06-30,savings,Walmart,shopping,-110.0
+TXN01385,CUST0222,2026-05-16,checking,Kroger,groceries,-229.49
+TXN01380,CUST0222,2026-05-28,checking,Kroger,groceries,-181.16
+TXN01386,CUST0222,2026-06-04,checking,Amazon,shopping,-160.62
+TXN01384,CUST0222,2026-06-11,checking,Shell Gas,gas,-162.03
+TXN01382,CUST0222,2026-06-12,checking,CVS Pharmacy,health,-14.59
+TXN01383,CUST0222,2026-06-20,checking,Starbucks,dining,-173.35
+TXN01381,CUST0222,2026-06-27,checking,Uber,transport,-20.7
+TXN01387,CUST0223,2026-06-02,checking,Shell Gas,gas,-77.83
+TXN01388,CUST0223,2026-06-06,checking,Chipotle,dining,-231.69
+TXN01389,CUST0223,2026-06-06,checking,Netflix,entertainment,-162.98
+TXN01390,CUST0223,2026-06-23,checking,Chipotle,dining,-140.82
+TXN01393,CUST0224,2026-06-03,checking,Walmart,shopping,-131.74
+TXN01392,CUST0224,2026-06-13,checking,Amazon,shopping,-191.65
+TXN01391,CUST0224,2026-06-18,checking,CVS Pharmacy,health,-218.99
+TXN01396,CUST0225,2026-05-24,savings,CVS Pharmacy,health,-78.48
+TXN01394,CUST0225,2026-05-26,savings,Starbucks,dining,-62.56
+TXN01395,CUST0225,2026-06-02,checking,Kroger,groceries,-12.33
+TXN01397,CUST0225,2026-06-24,checking,Target,shopping,-19.51
+TXN01398,CUST0225,2026-06-29,checking,Chipotle,dining,-180.1
+TXN01407,CUST0226,2026-05-18,checking,Uber,transport,-216.19
+TXN01404,CUST0226,2026-05-19,checking,Uber,transport,-28.01
+TXN01401,CUST0226,2026-05-28,checking,Duke Energy,utilities,-51.84
+TXN01402,CUST0226,2026-06-04,checking,Shell Gas,gas,-206.0
+TXN01406,CUST0226,2026-06-17,checking,Shell Gas,gas,-144.75
+TXN01405,CUST0226,2026-06-23,checking,Chipotle,dining,-18.37
+TXN01400,CUST0226,2026-06-25,checking,Kroger,groceries,-58.72
+TXN01403,CUST0226,2026-06-27,checking,Target,shopping,-63.28
+TXN01399,CUST0226,2026-06-29,checking,Walmart,shopping,-120.45
+TXN01416,CUST0227,2026-05-20,checking,AT&T,utilities,-249.39
+TXN01415,CUST0227,2026-05-22,savings,Chipotle,dining,-67.27
+TXN01410,CUST0227,2026-05-28,checking,CVS Pharmacy,health,-25.05
+TXN01413,CUST0227,2026-05-29,checking,Walmart,shopping,-228.78
+TXN01411,CUST0227,2026-06-10,checking,Target,shopping,-94.71
+TXN01412,CUST0227,2026-06-11,checking,Delta Airlines,travel,-75.65
+TXN01408,CUST0227,2026-06-12,checking,Starbucks,dining,-111.53
+TXN01409,CUST0227,2026-06-13,checking,Target,shopping,-77.57
+TXN01414,CUST0227,2026-06-15,checking,Starbucks,dining,-151.19
+TXN01417,CUST0227,2026-06-25,checking,Amazon,shopping,-141.28
+TXN01418,CUST0228,2026-05-17,checking,Duke Energy,utilities,-92.65
+TXN01421,CUST0228,2026-05-18,checking,Amazon,shopping,-163.77
+TXN01423,CUST0228,2026-05-19,checking,Chipotle,dining,-52.14
+TXN01422,CUST0228,2026-06-05,checking,Chipotle,dining,-51.01
+TXN01424,CUST0228,2026-06-12,checking,Home Depot,home,-244.14
+TXN01419,CUST0228,2026-06-19,savings,Uber,transport,-102.2
+TXN01420,CUST0228,2026-06-24,checking,Home Depot,home,-77.89
+TXN01432,CUST0229,2026-05-31,savings,Amazon,shopping,-134.4
+TXN01429,CUST0229,2026-06-01,checking,Duke Energy,utilities,-196.25
+TXN01426,CUST0229,2026-06-09,savings,Chipotle,dining,-241.36
+TXN01427,CUST0229,2026-06-15,checking,Delta Airlines,travel,-210.42
+TXN01425,CUST0229,2026-06-18,checking,CVS Pharmacy,health,-130.79
+TXN01428,CUST0229,2026-06-19,checking,CVS Pharmacy,health,-179.88
+TXN01430,CUST0229,2026-06-19,checking,Target,shopping,-151.94
+TXN01433,CUST0229,2026-06-21,savings,Walmart,shopping,-133.06
+TXN01431,CUST0229,2026-06-25,checking,Duke Energy,utilities,-47.49
+TXN01439,CUST0230,2026-05-19,checking,Shell Gas,gas,-107.2
+TXN01438,CUST0230,2026-05-24,checking,Netflix,entertainment,-63.16
+TXN01436,CUST0230,2026-06-02,checking,Chipotle,dining,-118.72
+TXN01434,CUST0230,2026-06-12,checking,Duke Energy,utilities,-242.7
+TXN01437,CUST0230,2026-06-24,checking,Duke Energy,utilities,-197.44
+TXN01435,CUST0230,2026-06-30,checking,Starbucks,dining,-54.66
+TXN01442,CUST0231,2026-05-16,checking,AT&T,utilities,-9.17
+TXN01443,CUST0231,2026-05-26,checking,Uber,transport,-175.09
+TXN01441,CUST0231,2026-06-23,checking,Walmart,shopping,-11.84
+TXN01440,CUST0231,2026-06-27,checking,Netflix,entertainment,-56.38
+TXN01446,CUST0232,2026-05-19,savings,Home Depot,home,-197.35
+TXN01444,CUST0232,2026-06-01,checking,Duke Energy,utilities,-224.18
+TXN01447,CUST0232,2026-06-18,checking,CVS Pharmacy,health,-110.69
+TXN01445,CUST0232,2026-06-25,checking,Starbucks,dining,-43.54
+TXN01448,CUST0232,2026-06-27,checking,AT&T,utilities,-171.99
+TXN01449,CUST0233,2026-05-16,checking,Delta Airlines,travel,-85.99
+TXN01454,CUST0233,2026-05-16,checking,Netflix,entertainment,-170.67
+TXN01450,CUST0233,2026-05-19,savings,Home Depot,home,-162.84
+TXN01455,CUST0233,2026-05-19,checking,Amazon,shopping,-55.44
+TXN01451,CUST0233,2026-06-02,savings,Starbucks,dining,-195.36
+TXN01456,CUST0233,2026-06-02,checking,Walmart,shopping,-85.99
+TXN01452,CUST0233,2026-06-10,checking,Target,shopping,-190.87
+TXN01453,CUST0233,2026-06-23,checking,Direct Deposit - Payroll,income,2439.31
+TXN01461,CUST0234,2026-05-21,checking,Uber,transport,-87.49
+TXN01459,CUST0234,2026-05-29,savings,Kroger,groceries,-186.84
+TXN01462,CUST0234,2026-05-29,checking,Target,shopping,-18.09
+TXN01465,CUST0234,2026-05-30,checking,Shell Gas,gas,-213.9
+TXN01463,CUST0234,2026-06-03,checking,Kroger,groceries,-153.28
+TXN01466,CUST0234,2026-06-24,checking,Home Depot,home,-95.91
+TXN01457,CUST0234,2026-06-27,checking,AT&T,utilities,-210.03
+TXN01460,CUST0234,2026-06-27,checking,Shell Gas,gas,-213.04
+TXN01458,CUST0234,2026-06-29,checking,Amazon,shopping,-20.55
+TXN01464,CUST0234,2026-06-29,checking,Netflix,entertainment,-246.73
+TXN01467,CUST0235,2026-05-21,checking,Uber,transport,-239.83
+TXN01471,CUST0235,2026-05-23,checking,AT&T,utilities,-10.12
+TXN01473,CUST0235,2026-05-23,checking,Kroger,groceries,-107.63
+TXN01468,CUST0235,2026-05-30,checking,Starbucks,dining,-239.85
+TXN01474,CUST0235,2026-05-31,checking,Starbucks,dining,-4.69
+TXN01475,CUST0235,2026-06-01,savings,Direct Deposit - Payroll,income,1902.74
+TXN01470,CUST0235,2026-06-03,checking,Chipotle,dining,-126.52
+TXN01472,CUST0235,2026-06-11,savings,Target,shopping,-246.71
+TXN01469,CUST0235,2026-06-24,checking,Delta Airlines,travel,-29.5
+TXN01481,CUST0236,2026-05-16,checking,Starbucks,dining,-135.22
+TXN01478,CUST0236,2026-05-19,savings,Chipotle,dining,-143.25
+TXN01479,CUST0236,2026-05-21,checking,Kroger,groceries,-221.16
+TXN01476,CUST0236,2026-05-22,checking,Shell Gas,gas,-191.27
+TXN01477,CUST0236,2026-05-25,checking,Kroger,groceries,-137.58
+TXN01480,CUST0236,2026-05-31,checking,Home Depot,home,-39.98
+TXN01482,CUST0236,2026-06-10,savings,Starbucks,dining,-7.42
+TXN01484,CUST0236,2026-06-14,savings,Kroger,groceries,-44.52
+TXN01483,CUST0236,2026-06-15,savings,Home Depot,home,-18.67
+TXN01485,CUST0237,2026-05-16,checking,Home Depot,home,-59.7
+TXN01489,CUST0237,2026-05-26,checking,Amazon,shopping,-47.04
+TXN01490,CUST0237,2026-05-28,checking,AT&T,utilities,-95.19
+TXN01488,CUST0237,2026-06-08,checking,Netflix,entertainment,-222.03
+TXN01486,CUST0237,2026-06-10,checking,Home Depot,home,-152.98
+TXN01487,CUST0237,2026-06-24,checking,Uber,transport,-238.79
+TXN01492,CUST0238,2026-05-26,checking,Duke Energy,utilities,-101.71
+TXN01493,CUST0238,2026-06-09,savings,CVS Pharmacy,health,-19.81
+TXN01494,CUST0238,2026-06-11,checking,Shell Gas,gas,-36.91
+TXN01497,CUST0238,2026-06-17,checking,Target,shopping,-205.91
+TXN01491,CUST0238,2026-06-20,checking,AT&T,utilities,-234.35
+TXN01496,CUST0238,2026-06-21,checking,Duke Energy,utilities,-128.8
+TXN01495,CUST0238,2026-06-23,checking,Delta Airlines,travel,-146.78
+TXN01501,CUST0239,2026-05-16,checking,Duke Energy,utilities,-49.54
+TXN01502,CUST0239,2026-05-18,checking,CVS Pharmacy,health,-39.74
+TXN01500,CUST0239,2026-06-10,checking,AT&T,utilities,-132.33
+TXN01499,CUST0239,2026-06-19,savings,Duke Energy,utilities,-67.54
+TXN01498,CUST0239,2026-06-27,checking,AT&T,utilities,-225.99
+TXN01507,CUST0240,2026-05-18,checking,Walmart,shopping,-73.33
+TXN01508,CUST0240,2026-06-02,checking,Target,shopping,-136.93
+TXN01512,CUST0240,2026-06-04,checking,Netflix,entertainment,-16.96
+TXN01506,CUST0240,2026-06-11,checking,Netflix,entertainment,-192.52
+TXN01503,CUST0240,2026-06-19,checking,Starbucks,dining,-152.79
+TXN01509,CUST0240,2026-06-19,checking,Shell Gas,gas,-102.88
+TXN01504,CUST0240,2026-06-21,checking,Amazon,shopping,-95.51
+TXN01511,CUST0240,2026-06-22,savings,Shell Gas,gas,-102.7
+TXN01505,CUST0240,2026-06-23,checking,Netflix,entertainment,-9.0
+TXN01510,CUST0240,2026-06-30,checking,Amazon,shopping,-233.45
+TXN01522,CUST0241,2026-05-29,checking,Delta Airlines,travel,-161.7
+TXN01514,CUST0241,2026-06-01,checking,Uber,transport,-179.7
+TXN01520,CUST0241,2026-06-03,checking,Target,shopping,-113.23
+TXN01515,CUST0241,2026-06-06,checking,Delta Airlines,travel,-213.25
+TXN01518,CUST0241,2026-06-11,savings,Duke Energy,utilities,-199.68
+TXN01513,CUST0241,2026-06-15,checking,Shell Gas,gas,-87.8
+TXN01521,CUST0241,2026-06-16,checking,Starbucks,dining,-101.18
+TXN01517,CUST0241,2026-06-18,checking,Netflix,entertainment,-113.31
+TXN01516,CUST0241,2026-06-23,checking,Shell Gas,gas,-73.42
+TXN01519,CUST0241,2026-06-23,checking,Chipotle,dining,-26.04
+TXN01528,CUST0242,2026-05-24,savings,Starbucks,dining,-226.86
+TXN01527,CUST0242,2026-06-01,checking,Delta Airlines,travel,-83.82
+TXN01526,CUST0242,2026-06-04,checking,Direct Deposit - Payroll,income,1512.02
+TXN01523,CUST0242,2026-06-06,savings,Netflix,entertainment,-122.37
+TXN01524,CUST0242,2026-06-06,checking,Duke Energy,utilities,-223.46
+TXN01531,CUST0242,2026-06-13,checking,Chipotle,dining,-200.35
+TXN01529,CUST0242,2026-06-19,checking,Target,shopping,-156.82
+TXN01525,CUST0242,2026-06-25,checking,CVS Pharmacy,health,-160.59
+TXN01530,CUST0242,2026-06-29,checking,Direct Deposit - Payroll,income,2200.56
+TXN01536,CUST0243,2026-05-18,checking,Netflix,entertainment,-145.82
+TXN01538,CUST0243,2026-05-24,checking,Netflix,entertainment,-131.64
+TXN01541,CUST0243,2026-05-27,savings,Netflix,entertainment,-149.38
+TXN01532,CUST0243,2026-06-03,savings,Walmart,shopping,-219.0
+TXN01539,CUST0243,2026-06-04,checking,Home Depot,home,-245.68
+TXN01535,CUST0243,2026-06-06,savings,CVS Pharmacy,health,-58.44
+TXN01533,CUST0243,2026-06-18,checking,AT&T,utilities,-248.92
+TXN01540,CUST0243,2026-06-20,checking,CVS Pharmacy,health,-106.85
+TXN01537,CUST0243,2026-06-24,checking,Target,shopping,-93.93
+TXN01534,CUST0243,2026-06-25,checking,Home Depot,home,-183.81
+TXN01550,CUST0244,2026-05-20,checking,Walmart,shopping,-140.12
+TXN01543,CUST0244,2026-05-25,checking,Home Depot,home,-244.91
+TXN01546,CUST0244,2026-05-27,checking,Netflix,entertainment,-77.48
+TXN01542,CUST0244,2026-05-30,checking,Walmart,shopping,-81.59
+TXN01548,CUST0244,2026-06-06,checking,Amazon,shopping,-173.52
+TXN01549,CUST0244,2026-06-11,savings,Amazon,shopping,-205.71
+TXN01545,CUST0244,2026-06-17,checking,Kroger,groceries,-196.49
+TXN01544,CUST0244,2026-06-20,checking,Delta Airlines,travel,-17.21
+TXN01547,CUST0244,2026-06-26,checking,Chipotle,dining,-14.47
+TXN01557,CUST0245,2026-05-18,checking,Shell Gas,gas,-243.55
+TXN01556,CUST0245,2026-05-26,checking,Uber,transport,-203.69
+TXN01554,CUST0245,2026-06-01,checking,Target,shopping,-204.65
+TXN01551,CUST0245,2026-06-10,checking,Netflix,entertainment,-23.39
+TXN01559,CUST0245,2026-06-10,checking,Delta Airlines,travel,-60.74
+TXN01552,CUST0245,2026-06-13,savings,Kroger,groceries,-103.14
+TXN01553,CUST0245,2026-06-19,checking,Walmart,shopping,-61.3
+TXN01555,CUST0245,2026-06-22,savings,Home Depot,home,-190.73
+TXN01558,CUST0245,2026-06-24,checking,Starbucks,dining,-161.13
+TXN01560,CUST0246,2026-05-21,checking,Kroger,groceries,-217.67
+TXN01562,CUST0246,2026-05-21,checking,Home Depot,home,-55.28
+TXN01561,CUST0246,2026-05-25,checking,Home Depot,home,-126.79
+TXN01563,CUST0247,2026-05-17,checking,Delta Airlines,travel,-144.96
+TXN01570,CUST0247,2026-05-19,checking,AT&T,utilities,-67.71
+TXN01567,CUST0247,2026-05-26,checking,Target,shopping,-196.88
+TXN01565,CUST0247,2026-05-27,savings,Uber,transport,-11.33
+TXN01569,CUST0247,2026-05-31,checking,Target,shopping,-57.66
+TXN01566,CUST0247,2026-06-10,checking,Home Depot,home,-193.39
+TXN01568,CUST0247,2026-06-28,checking,Uber,transport,-124.38
+TXN01564,CUST0247,2026-06-30,checking,Direct Deposit - Payroll,income,3173.05
+TXN01571,CUST0248,2026-05-22,checking,CVS Pharmacy,health,-201.21
+TXN01572,CUST0248,2026-05-30,checking,CVS Pharmacy,health,-74.13
+TXN01574,CUST0248,2026-06-08,checking,Chipotle,dining,-27.6
+TXN01573,CUST0248,2026-06-11,checking,Uber,transport,-227.33
+TXN01575,CUST0248,2026-06-19,checking,Direct Deposit - Payroll,income,2355.2
+TXN01576,CUST0249,2026-05-24,checking,Home Depot,home,-95.87
+TXN01579,CUST0249,2026-05-26,checking,AT&T,utilities,-175.12
+TXN01577,CUST0249,2026-05-29,savings,Amazon,shopping,-78.64
+TXN01578,CUST0249,2026-06-12,checking,Chipotle,dining,-221.48
+TXN01584,CUST0249,2026-06-17,savings,Delta Airlines,travel,-70.99
+TXN01581,CUST0249,2026-06-18,checking,Netflix,entertainment,-82.97
+TXN01582,CUST0249,2026-06-29,checking,AT&T,utilities,-224.95
+TXN01580,CUST0249,2026-06-30,checking,Walmart,shopping,-237.59
+TXN01583,CUST0249,2026-06-30,checking,Home Depot,home,-80.0
+TXN01592,CUST0250,2026-05-27,checking,Netflix,entertainment,-62.6
+TXN01585,CUST0250,2026-05-29,checking,Shell Gas,gas,-88.2
+TXN01586,CUST0250,2026-06-02,checking,Amazon,shopping,-25.33
+TXN01588,CUST0250,2026-06-14,checking,Walmart,shopping,-157.26
+TXN01589,CUST0250,2026-06-22,checking,Delta Airlines,travel,-126.71
+TXN01590,CUST0250,2026-06-24,savings,Netflix,entertainment,-153.65
+TXN01587,CUST0250,2026-06-28,checking,Target,shopping,-133.38
+TXN01591,CUST0250,2026-06-28,savings,Netflix,entertainment,-222.22

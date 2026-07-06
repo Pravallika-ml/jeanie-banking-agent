@@ -86,7 +86,16 @@ for role, content in st.session_state.history:
 
 
 def run_graph(input_data):
-    result = agent_graph.invoke(input_data, config=config)
+    try:
+        result = agent_graph.invoke(input_data, config=config)
+    except Exception:
+        st.session_state.pending_interrupt = None
+        st.session_state.history.append((
+            "assistant",
+            "Sorry, I couldn't understand that. Either you rephrase it as a full "
+            "question? or Customer doesn't have an active bank account",
+        ))
+        return
     if "__interrupt__" in result:
         st.session_state.pending_interrupt = result["__interrupt__"][0].value
     else:
